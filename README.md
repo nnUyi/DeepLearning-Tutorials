@@ -2,7 +2,7 @@
   This is a deep learning tutorials for someone who want to learn more about AI, Thank you for following!
   
 # Book List
-  Chinese Book
+## Chinese Book
   
     《机器学习实战》--Peter Harrington
     
@@ -15,7 +15,7 @@
     《深度学习》--Ian GoodFellow, Yoshua Bengio et al(https://exacity.github.io/deeplearningbook-chinese/)
     
     
-  English Book
+## English Book
   
     《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
     
@@ -23,27 +23,28 @@
     
     
 # Courses List
+ - Machine Learning--by Andrew Ng, Standford(https://www.coursera.org/learn/machine-learning)
+  
+ - Deep Learning -- by Andrew Ng, Standford(https://www.coursera.org/specializations/deep-learning)
 
-  Machine Learning--by Andrew Ng, Standford(https://www.coursera.org/learn/machine-learning)
+ - CS231n: Convolutional Neural Networks for Visual Recognition--by Feifei Li(http://cs231n.stanford.edu/syllabus.html)
   
-  Deep Learning -- by Andrew Ng, Standford(https://www.coursera.org/specializations/deep-learning)
-
-  CS231n: Convolutional Neural Networks for Visual Recognition--by Feifei Li(http://cs231n.stanford.edu/syllabus.html)
+ - Stat212b：Topics Course on Deep Learning--by Joan Bruna(http://joanbruna.github.io/stat212b/)
   
-  Stat212b：Topics Course on Deep Learning--by Joan Bruna(http://joanbruna.github.io/stat212b/)
-  
-  CS224d: Deep Learning for Natural Language Processing--by Richard Socher(http://cs224d.stanford.edu/)
+ - CS224d: Deep Learning for Natural Language Processing--by Richard Socher(http://cs224d.stanford.edu/)
   
 # Paper List
-  
+    
   
   
 # Public Accounts
+
   机器之心
   
   新智元
   
 # Deep Learning Framework(open source framework)
+
   Tensorflow
   
   Caffe
@@ -57,6 +58,7 @@
   et al
  
 # Other Sources
+
   Generative Adversarial Networks:(GAN):
       GAN Paper
           https://github.com/hindupuravinash/the-gan-zoo
@@ -69,5 +71,5 @@
           Pytorch:https://github.com/znxlwm/pytorch-generative-model-collections
   
 # Contacts
-  Email:computerscienceyyz@163.com
 
+  Email:computerscienceyyz@163.com
