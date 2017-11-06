@@ -142,8 +142,7 @@
   - ICLR
   
   **Computer Vision**
-  
-  - CVPR
+  - CVPR
   - ICCV
   - ECCV
   
