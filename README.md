@@ -30,7 +30,7 @@
  - CS224d: Deep Learning for Natural Language Processing--by Richard Socher(http://cs224d.stanford.edu/)
   
 # Paper List
-  - Image Revolution and Convolution Networks
+## Image Revolution and Convolution Networks
   
   **[0]** LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. (1998d). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278–2324.(LeNet-5)
   
@@ -42,7 +42,7 @@
 
   **[4]** He, Kaiming, et al. "Deep residual learning for image recognition." arXiv preprint arXiv:1512.03385 (2015). [pdf] (ResNet,Very very deep networks, CVPR best paper) :star::star::star::star::star:
   
-  - Semantic Segmentation and Object Detection
+## Semantic Segmentation and Object Detection
   
   **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)
   
@@ -54,20 +54,20 @@
   
   **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017)(Mask RCNN)
 
-  - RNN and LSTM et al
+## RNN and LSTM et al
   
     This part mainly focuses on RNN and its revolution
     
-  - Types of CNN
+## Types of CNN
   
     This part mainly describes different kinds of convolution ops.
     
-  - Types of Activation
+## Types of Activation
   
     This part mainly focuses on active function
- 
 
-  - Model Constraints
+## Model Constraints
+
   **[0]** Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). [pdf] (Dropout) :star::star::star:
 
   **[1]** Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." Journal of Machine Learning Research 15.1 (2014): 1929-1958. [pdf] :star::star::star:
@@ -88,7 +88,8 @@
 
   **[9]** Iandola, Forrest N., et al. "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size." arXiv preprint arXiv:1602.07360 (2016). [pdf] (Also a new direction to optimize NN,DeePhi Tech Startup) :star::star::star::star:
 
-  - Optimization
+## Optimization
+
   **[0]** 	Sebastian Ruder:An overview of gradient descent optimization algorithms. CoRR abs/1609.04747 (2016):star::star::star::star::star:(http://ruder.io/optimizing-gradient-descent/)
   
   **[1]** Back Propagation Algorithm(https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
