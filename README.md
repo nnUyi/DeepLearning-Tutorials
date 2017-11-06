@@ -54,18 +54,45 @@
   
   **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017)(Mask RCNN)
 
+## Natural Language Processing
+
+## Speech Recognization
+
 ## RNN and LSTM et al
   
     This part mainly focuses on RNN and its revolution
     
+
 ## Types of CNN
-  
-    This part mainly describes different kinds of convolution ops.
+
+   **[0]** Dilated Convolutional Kernel
+     - Fisher Yu, Vladlen Koltun:Multi-Scale Context Aggregation by Dilated Convolutions. ICLR(2016)
+     
+   **[1]** Deformable Convolutional Kernel
+     - Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei:Deformable Convolutional Networks. CoRR abs/1703.06211 (2017)
+     
+   **[2]** Conventional Convolutional Kernel
     
 ## Types of Activation
-  
-    This part mainly focuses on active function
 
+    - sigmoid
+    
+    - hard sigmoid
+    
+    - tanh
+    
+    - relu
+    
+    - lerelu
+    
+    - maxout
+    
+    - swish
+    
+    - softplus
+    
+    relu, lerelu, tanh, sigmoid is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
+    
 ## Model Constraints
 
   **[0]** Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). [pdf] (Dropout) :star::star::star:
@@ -95,11 +122,22 @@
   **[1]** Back Propagation Algorithm(https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
  
   **[2]** Andrychowicz, Marcin, et al. "Learning to learn by gradient descent by gradient descent." arXiv preprint arXiv:1606.04474 (2016). [pdf] (Neural Optimizer,Amazing Work) :star::star::star::star::star:
-  
+
+### Optimization function
+   - Momentum
+   - Nesterov accelerated gradient
+   - Adagrad
+   - Adadelta
+   - RMSprop
+   - Adam
+   - AdaMax
+   - Nadam
+
+   :start:Adam is a better choice
 
 # Journals and Periardical
-  **Machine Learning and Theories**
- 
+
+  **Machine Learning and Theories** 
   - NIPS
   - ICML
   - ICLR
@@ -124,7 +162,7 @@
   
 # Deep Learning Framework(open source framework)
 
-  - Tensorflow
+  - Tensorflow(https://www.tensorflow.org/api_docs/)
   
   - Caffe
   
@@ -149,7 +187,9 @@
       GAN Codes
           Tensorflow:https://github.com/hwalsuklee/tensorflow-generative-model-collections
           Pytorch:https://github.com/znxlwm/pytorch-generative-model-collections
-  
+
+# New Architecture
+
 # References
  - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md
  - https://github.com/terryum/awesome-deep-learning-papers
