@@ -92,7 +92,7 @@
    - swish
    - softplus
 
-   relu, lerelu, tanh, sigmoid is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
+   **relu, lerelu, tanh, sigmoid** is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
     
 ### Model Constraints
   **[0]** Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). [pdf] (Dropout) :star::star::star:
@@ -176,8 +176,10 @@
          https://github.com/soumith/ganhacks
           
    - GAN Codes
-         Tensorflow:https://github.com/hwalsuklee/tensorflow-generative-model-collections
-         Pytorch:https://github.com/znxlwm/pytorch-generative-model-collections
+   
+     Tensorflow:https://github.com/hwalsuklee/tensorflow-generative-model-collections
+     
+     Pytorch:https://github.com/znxlwm/pytorch-generative-model-collections
 
 # New Architecture
   - Generative Adversarial Networks
