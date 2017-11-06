@@ -3,20 +3,20 @@
   
 # Book List
 ## Chinese Book
-  -《机器学习实战》--Peter Harrington
+  - 《机器学习实战》--Peter Harrington
     
-  -《机器学习》--周志华
+  - 《机器学习》--周志华
     
-  -《统计和机器学习》--李航
+  - 《统计和机器学习》--李航
     
-  -《神经网络与深度学习》--邱锡鹏（https://nndl.github.io/）
+  - 《神经网络与深度学习》--邱锡鹏（https://nndl.github.io/）
     
-  -《深度学习》--Ian GoodFellow, Yoshua Bengio et al(https://exacity.github.io/deeplearningbook-chinese/)
+  - 《深度学习》--Ian GoodFellow, Yoshua Bengio et al(https://exacity.github.io/deeplearningbook-chinese/)
     
 ## English Book
-  -《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
+  - 《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
     
-  -《Pattern Recognition and Machine Learning》--Christopher M. Bishop
+  - 《Pattern Recognition and Machine Learning》--Christopher M. Bishop
      
 # Courses List
  - Machine Learning--by Andrew Ng, Standford(https://www.coursera.org/learn/machine-learning)
@@ -65,6 +65,9 @@
           Tensorflow:https://github.com/hwalsuklee/tensorflow-generative-model-collections
           Pytorch:https://github.com/znxlwm/pytorch-generative-model-collections
   
+# References
+ - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md
+ - https://github.com/terryum/awesome-deep-learning-papers
+ 
 # Contacts
-
-  Email:computerscienceyyz@163.com
+ - Email:computerscienceyyz@163.com
