@@ -5,13 +5,13 @@
 ## Chinese Book
   - 《机器学习实战》--Peter Harrington
     
-  - 《机器学习》--周志华
+  - 《机器学习》--周志华
     
   - 《统计和机器学习》--李航
     
   - 《神经网络与深度学习》--邱锡鹏（https://nndl.github.io/）
     
-  - 《深度学习》--Ian GoodFellow, Yoshua Bengio et al(https://exacity.github.io/deeplearningbook-chinese/)
+  - 《深度学习》--Ian GoodFellow, Yoshua Bengio et al(https://exacity.github.io/deeplearningbook-chinese/)
     
 ## English Book
   - 《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
@@ -32,7 +32,7 @@
 # Paper List
   - Image Revolution and Convolution Networks
   
-  **[0]** LeNet-5
+  **[0]** LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. (1998d). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278–2324.(LeNet-5)
   
   **[1]** Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems. 2012. [pdf] (AlexNet, Deep Learning Breakthrough) :star::star::star::star::star:
 
@@ -42,6 +42,18 @@
 
   **[4]** He, Kaiming, et al. "Deep residual learning for image recognition." arXiv preprint arXiv:1512.03385 (2015). [pdf] (ResNet,Very very deep networks, CVPR best paper) :star::star::star::star::star:
   
+  - Semantic Segmentation
+  
+  **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)
+  
+  **[1]** 	Ross B. Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik:Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation. CVPR 2014(RCNN)
+  
+  **[2]** Ross Girshick, Redmond.Fast R-CNN: Fast Region-based Convolutional Networks for object detection. ICCV 2015(Fast RCNN)
+
+  **[3]** 	Shaoqing Ren, Kaiming He, Ross B. Girshick, Jian Sun:Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. NIPS 2015(Faster RCNN)
+  
+  **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017)(Mask RCNN)
+
 # Journals and Periardical
   **Machine Learning and Theories**
  
