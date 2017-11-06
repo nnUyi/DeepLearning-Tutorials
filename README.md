@@ -31,6 +31,7 @@
   
 # Paper List
   - Image Revolution and Convolution Networks
+  
   **[0]** LeNet-5
   
   **[1]** Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems. 2012. [pdf] (AlexNet, Deep Learning Breakthrough) :star::star::star::star::star:
