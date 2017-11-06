@@ -3,25 +3,21 @@
   
 # Book List
 ## Chinese Book
-  
-    《机器学习实战》--Peter Harrington
+  -《机器学习实战》--Peter Harrington
     
-    《机器学习》--周志华
+  -《机器学习》--周志华
     
-    《统计和机器学习》--李航
+  -《统计和机器学习》--李航
     
-    《神经网络与深度学习》--邱锡鹏（https://nndl.github.io/）
+  -《神经网络与深度学习》--邱锡鹏（https://nndl.github.io/）
     
-    《深度学习》--Ian GoodFellow, Yoshua Bengio et al(https://exacity.github.io/deeplearningbook-chinese/)
+  -《深度学习》--Ian GoodFellow, Yoshua Bengio et al(https://exacity.github.io/deeplearningbook-chinese/)
     
-    
 ## English Book
-  
-    《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
+  -《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
     
-    《Pattern Recognition and Machine Learning》--Christopher M. Bishop
-    
-    
+  -《Pattern Recognition and Machine Learning》--Christopher M. Bishop
+     
 # Courses List
  - Machine Learning--by Andrew Ng, Standford(https://www.coursera.org/learn/machine-learning)
   
@@ -39,26 +35,25 @@
   
 # Public Accounts
 
-  机器之心
+  - 机器之心
   
-  新智元
+  - 新智元
   
 # Deep Learning Framework(open source framework)
 
-  Tensorflow
+  - Tensorflow
   
-  Caffe
+  - Caffe
   
-  Pytorch
+  - Pytorch
   
-  Keras
+  - Keras
   
-  Mxnet
+  - Mxnet
   
-  et al
+  - et al
  
 # Other Sources
-
   Generative Adversarial Networks:(GAN):
       GAN Paper
           https://github.com/hindupuravinash/the-gan-zoo
