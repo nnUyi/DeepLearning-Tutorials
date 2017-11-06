@@ -142,6 +142,7 @@
   - ICLR
   
   **Computer Vision**
+  
   - CVPR
   - ICCV
   - ECCV
@@ -167,6 +168,7 @@
  
 # Other Sources
 ## Generative Adversarial Networks:(GAN):
+
    - GAN Paper
          https://github.com/hindupuravinash/the-gan-zoo
           
