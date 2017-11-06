@@ -58,13 +58,20 @@
 
 ## Speech Recognization
 
-## RNN and LSTM et al
-  
-    This part mainly focuses on RNN and its revolution
-    
+## RNN LSTM GRU etc.
+   **[0]** Graves, Alex. "Generating sequences with recurrent neural networks." arXiv preprint arXiv:1308.0850 (2013). [pdf] (LSTM, very nice generating result, show the power of RNN) :star::star::star::star:
 
+   **[1]** Cho, Kyunghyun, et al. "Learning phrase representations using RNN encoder-decoder for statistical machine translation." arXiv preprint arXiv:1406.1078 (2014). [pdf] (First Seq-to-Seq Paper) :star::star::star::star:
+
+   **[2]** Sutskever, Ilya, Oriol Vinyals, and Quoc V. Le. "Sequence to sequence learning with neural networks." Advances in neural information processing systems. 2014. [pdf] (Outstanding Work) :star::star::star::star::star:
+
+   **[3]** Bahdanau, Dzmitry, KyungHyun Cho, and Yoshua Bengio. "Neural Machine Translation by Jointly Learning to Align and Translate." arXiv preprint arXiv:1409.0473 (2014). [pdf] :star::star::star::star:
+
+   **[4]** Vinyals, Oriol, and Quoc Le. "A neural conversational model." arXiv preprint arXiv:1506.05869 (2015). [pdf] (Seq-to-Seq on Chatbot) :star::star::star:
+   
+   **[5]** Understanding LSTM Networks(http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+   
 ## Types of CNN
-
    **[0]** Dilated Convolutional Kernel
      - Fisher Yu, Vladlen Koltun:Multi-Scale Context Aggregation by Dilated Convolutions. ICLR(2016)
      
@@ -74,27 +81,18 @@
    **[2]** Conventional Convolutional Kernel
     
 ## Types of Activation
-
-   - sigmoid
-    
+   - sigmoid   
    - hard sigmoid
-    
    - tanh
-    
    - relu
-    
    - lerelu
-   
    - maxout
-    
    - swish
-    
    - softplus
-    
+
    relu, lerelu, tanh, sigmoid is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
     
 ## Model Constraints
-
   **[0]** Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). [pdf] (Dropout) :star::star::star:
 
   **[1]** Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." Journal of Machine Learning Research 15.1 (2014): 1929-1958. [pdf] :star::star::star:
@@ -116,14 +114,14 @@
   **[9]** Iandola, Forrest N., et al. "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size." arXiv preprint arXiv:1602.07360 (2016). [pdf] (Also a new direction to optimize NN,DeePhi Tech Startup) :star::star::star::star:
 
 ## Optimization
-
+### Optimization Methods
   **[0]** 	Sebastian Ruder:An overview of gradient descent optimization algorithms. CoRR abs/1609.04747 (2016):star::star::star::star::star:(http://ruder.io/optimizing-gradient-descent/)
   
   **[1]** Back Propagation Algorithm(https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
  
   **[2]** Andrychowicz, Marcin, et al. "Learning to learn by gradient descent by gradient descent." arXiv preprint arXiv:1606.04474 (2016). [pdf] (Neural Optimizer,Amazing Work) :star::star::star::star::star:
 
-### Optimization function
+### Optimization Functions
    - Momentum
    - Nesterov accelerated gradient
    - Adagrad
@@ -136,7 +134,6 @@
    :star::star::star::star::star:**Adam** is a better choice
 
 # Journals and Periardical
-
   **Machine Learning and Theories** 
   - NIPS
   - ICML
@@ -178,18 +175,22 @@
 
   Generative Adversarial Networks:(GAN):
   
-      GAN Paper
+    - GAN Paper
           https://github.com/hindupuravinash/the-gan-zoo
           
-      GAN Tricks
+    - GAN Tricks
           https://github.com/soumith/ganhacks
           
-      GAN Codes
+    - GAN Codes
           Tensorflow:https://github.com/hwalsuklee/tensorflow-generative-model-collections
           Pytorch:https://github.com/znxlwm/pytorch-generative-model-collections
 
 # New Architecture
 
+  - Generative Adversarial Networks
+  
+  - Capsules(Dynamic Routing Between Capsules--by Hinton)
+  
 # References
  - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md
  - https://github.com/terryum/awesome-deep-learning-papers
