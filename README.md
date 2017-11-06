@@ -75,23 +75,23 @@
     
 ## Types of Activation
 
-    - sigmoid
+   - sigmoid
     
-    - hard sigmoid
+   - hard sigmoid
     
-    - tanh
+   - tanh
     
-    - relu
+   - relu
     
-    - lerelu
+   - lerelu
+   
+   - maxout
     
-    - maxout
+   - swish
     
-    - swish
+   - softplus
     
-    - softplus
-    
-    relu, lerelu, tanh, sigmoid is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
+   relu, lerelu, tanh, sigmoid is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
     
 ## Model Constraints
 
@@ -133,7 +133,7 @@
    - AdaMax
    - Nadam
 
-   :start:Adam is a better choice
+   :star::star::star::star::star:**Adam** is a better choice
 
 # Journals and Periardical
 
