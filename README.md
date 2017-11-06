@@ -44,11 +44,13 @@
   
 # Journals and Periardical
   **Machine Learning and Theories**
+ 
   - NIPS
   - ICML
   - ICLR
   
   **Computer Vision**
+  
   - CVPR
   - ICCV
   - ECCV
