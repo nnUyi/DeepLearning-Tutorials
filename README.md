@@ -30,9 +30,35 @@
  - CS224d: Deep Learning for Natural Language Processing--by Richard Socher(http://cs224d.stanford.edu/)
   
 # Paper List
-    
+  - Image Revolution and Convolution Networks
+  **[0]** LeNet-5
   
+  **[1]** Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems. 2012. [pdf] (AlexNet, Deep Learning Breakthrough) :star::star::star::star::star:
+
+  **[2]** Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014). [pdf] (VGGNet,Neural Networks become very deep!) :star::star::star:
+
+  **[3]** Szegedy, Christian, et al. "Going deeper with convolutions." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015. [pdf] (GoogLeNet) :star::star::star:
+
+  **[4]** He, Kaiming, et al. "Deep residual learning for image recognition." arXiv preprint arXiv:1512.03385 (2015). [pdf] (ResNet,Very very deep networks, CVPR best paper) :star::star::star::star::star:
   
+# Journals and Periardical
+  **Machine Learning and Theories**
+  - NIPS
+  - ICML
+  - ICLR
+  
+  **Computer Vision**
+  - CVPR
+  - ICCV
+  - ECCV
+  
+  **Neural Language Processing**
+  - EMNLP
+  
+  **Artifical Intelligence**
+  - AAAI
+  - IJCAI
+
 # Public Accounts
 
   - 机器之心
@@ -54,7 +80,9 @@
   - et al
  
 # Other Sources
+
   Generative Adversarial Networks:(GAN):
+  
       GAN Paper
           https://github.com/hindupuravinash/the-gan-zoo
           
