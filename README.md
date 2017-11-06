@@ -50,7 +50,6 @@
   - ICLR
   
   **Computer Vision**
-  
   - CVPR
   - ICCV
   - ECCV
