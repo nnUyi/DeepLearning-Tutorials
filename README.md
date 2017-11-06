@@ -30,8 +30,9 @@
  - CS224d: Deep Learning for Natural Language Processing--by Richard Socher(http://cs224d.stanford.edu/)
   
 # Paper List
-## Image Revolution and Convolution Networks
-  
+## Application
+### Image Revolution and Convolution Networks
+
   **[0]** LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. (1998d). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278–2324.(LeNet-5)
   
   **[1]** Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems. 2012. [pdf] (AlexNet, Deep Learning Breakthrough) :star::star::star::star::star:
@@ -42,7 +43,7 @@
 
   **[4]** He, Kaiming, et al. "Deep residual learning for image recognition." arXiv preprint arXiv:1512.03385 (2015). [pdf] (ResNet,Very very deep networks, CVPR best paper) :star::star::star::star::star:
   
-## Semantic Segmentation and Object Detection
+### Semantic Segmentation and Object Detection
   
   **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)
   
@@ -54,11 +55,12 @@
   
   **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017)(Mask RCNN)
 
-## Natural Language Processing
+### Natural Language Processing
 
-## Speech Recognization
+### Speech Recognization
 
-## RNN LSTM GRU etc.
+## Model
+### RNN LSTM GRU etc.
    **[0]** Graves, Alex. "Generating sequences with recurrent neural networks." arXiv preprint arXiv:1308.0850 (2013). [pdf] (LSTM, very nice generating result, show the power of RNN) :star::star::star::star:
 
    **[1]** Cho, Kyunghyun, et al. "Learning phrase representations using RNN encoder-decoder for statistical machine translation." arXiv preprint arXiv:1406.1078 (2014). [pdf] (First Seq-to-Seq Paper) :star::star::star::star:
@@ -71,7 +73,7 @@
    
    **[5]** Understanding LSTM Networks(http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
    
-## Types of CNN
+### Types of CNN
    **[0]** Dilated Convolutional Kernel
      - Fisher Yu, Vladlen Koltun:Multi-Scale Context Aggregation by Dilated Convolutions. ICLR(2016)
      
@@ -80,7 +82,7 @@
      
    **[2]** Conventional Convolutional Kernel
     
-## Types of Activation
+### Types of Activation
    - sigmoid   
    - hard sigmoid
    - tanh
@@ -92,7 +94,7 @@
 
    relu, lerelu, tanh, sigmoid is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
     
-## Model Constraints
+### Model Constraints
   **[0]** Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). [pdf] (Dropout) :star::star::star:
 
   **[1]** Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." Journal of Machine Learning Research 15.1 (2014): 1929-1958. [pdf] :star::star::star:
@@ -113,15 +115,15 @@
 
   **[9]** Iandola, Forrest N., et al. "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size." arXiv preprint arXiv:1602.07360 (2016). [pdf] (Also a new direction to optimize NN,DeePhi Tech Startup) :star::star::star::star:
 
-## Optimization
-### Optimization Methods
+### Optimization
+#### Optimization Methods
   **[0]** 	Sebastian Ruder:An overview of gradient descent optimization algorithms. CoRR abs/1609.04747 (2016):star::star::star::star::star:(http://ruder.io/optimizing-gradient-descent/)
   
   **[1]** Back Propagation Algorithm(https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
  
   **[2]** Andrychowicz, Marcin, et al. "Learning to learn by gradient descent by gradient descent." arXiv preprint arXiv:1606.04474 (2016). [pdf] (Neural Optimizer,Amazing Work) :star::star::star::star::star:
 
-### Optimization Functions
+#### Optimization Functions
    - Momentum
    - Nesterov accelerated gradient
    - Adagrad
@@ -152,43 +154,31 @@
   - IJCAI
 
 # Public Accounts
-
   - 机器之心
-  
   - 新智元
   
 # Deep Learning Framework(open source framework)
-
   - Tensorflow(https://www.tensorflow.org/api_docs/)
-  
-  - Caffe
-  
-  - Pytorch
-  
-  - Keras
-  
-  - Mxnet
-  
-  - et al
+  - Caffe(http://caffe.berkeleyvision.org/)
+  - Pytorch(http://pytorch.org/docs/master/)
+  - Keras(https://keras.io/)
+  - Mxnet(https://mxnet.incubator.apache.org/get_started/)
+  - etc.
  
 # Other Sources
-
-  Generative Adversarial Networks:(GAN):
-  
-    - GAN Paper
-          https://github.com/hindupuravinash/the-gan-zoo
+## Generative Adversarial Networks:(GAN):
+   - GAN Paper
+         https://github.com/hindupuravinash/the-gan-zoo
           
-    - GAN Tricks
-          https://github.com/soumith/ganhacks
+   - GAN Tricks
+         https://github.com/soumith/ganhacks
           
-    - GAN Codes
-          Tensorflow:https://github.com/hwalsuklee/tensorflow-generative-model-collections
-          Pytorch:https://github.com/znxlwm/pytorch-generative-model-collections
+   - GAN Codes
+         Tensorflow:https://github.com/hwalsuklee/tensorflow-generative-model-collections
+         Pytorch:https://github.com/znxlwm/pytorch-generative-model-collections
 
 # New Architecture
-
   - Generative Adversarial Networks
-  
   - Capsules(Dynamic Routing Between Capsules--by Hinton)
   
 # References
