@@ -7,16 +7,16 @@
     
   - 《机器学习》--周志华
     
-  - 《统计和机器学习》--李航
+  - 《统计和机器学习》--李航
     
   - 《神经网络与深度学习》--邱锡鹏（https://nndl.github.io/）
     
   - 《深度学习》--Ian GoodFellow, Yoshua Bengio et al(https://exacity.github.io/deeplearningbook-chinese/)
     
 ## English Book
-  - 《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
-    
-  - 《Pattern Recognition and Machine Learning》--Christopher M. Bishop
+  - 《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
+  
+  - 《Pattern Recognition and Machine Learning》--Christopher M. Bishop
      
 # Courses List
  - Machine Learning--by Andrew Ng, Standford(https://www.coursera.org/learn/machine-learning)
@@ -42,17 +42,59 @@
 
   **[4]** He, Kaiming, et al. "Deep residual learning for image recognition." arXiv preprint arXiv:1512.03385 (2015). [pdf] (ResNet,Very very deep networks, CVPR best paper) :star::star::star::star::star:
   
-  - Semantic Segmentation
+  - Semantic Segmentation and Object Detection
   
   **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)
   
   **[1]** 	Ross B. Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik:Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation. CVPR 2014(RCNN)
   
-  **[2]** Ross Girshick, Redmond.Fast R-CNN: Fast Region-based Convolutional Networks for object detection. ICCV 2015(Fast RCNN)
+  **[2]** Ross Girshick, Redmond.Fast R-CNN: Fast Region-based Convolutional Networks for object detection. ICCV 2015(Fast RCNN):https://github.com/rbgirshick/fast-rcnn
 
-  **[3]** 	Shaoqing Ren, Kaiming He, Ross B. Girshick, Jian Sun:Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. NIPS 2015(Faster RCNN)
+  **[3]** 	Shaoqing Ren, Kaiming He, Ross B. Girshick, Jian Sun:Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. NIPS 2015(Faster RCNN):https://github.com/ShaoqingRen/faster_rcnn
   
   **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017)(Mask RCNN)
+
+  - RNN and LSTM et al
+  
+    This part mainly focuses on RNN and its revolution
+    
+  - Types of CNN
+  
+    This part mainly describes different kinds of convolution ops.
+    
+  - Types of Activation
+  
+    This part mainly focuses on active function
+ 
+
+  - Model Constraints
+  **[0]** Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). [pdf] (Dropout) :star::star::star:
+
+  **[1]** Srivastava, Nitish, et al. "Dropout: a simple way to prevent neural networks from overfitting." Journal of Machine Learning Research 15.1 (2014): 1929-1958. [pdf] :star::star::star:
+
+  **[2]** Ioffe, Sergey, and Christian Szegedy. "Batch normalization: Accelerating deep network training by reducing internal covariate shift." arXiv preprint arXiv:1502.03167 (2015). [pdf] (An outstanding Work in 2015) :star::star::star::star:
+
+  **[3]** Ba, Jimmy Lei, Jamie Ryan Kiros, and Geoffrey E. Hinton. "Layer normalization." arXiv preprint arXiv:1607.06450 (2016). [pdf] (Update of Batch Normalization) :star::star::star::star:
+
+  **[4]** Courbariaux, Matthieu, et al. "Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to+ 1 or−1." [pdf] (New Model,Fast)  :star::star::star:
+
+  **[5]** Jaderberg, Max, et al. "Decoupled neural interfaces using synthetic gradients." arXiv preprint arXiv:1608.05343 (2016). [pdf] (Innovation of Training Method,Amazing Work) :star::star::star::star::star:
+
+  **[6]** Chen, Tianqi, Ian Goodfellow, and Jonathon Shlens. "Net2net: Accelerating learning via knowledge transfer." arXiv preprint arXiv:1511.05641 (2015). [pdf] (Modify previously trained network to reduce training epochs) :star::star::star:
+
+  **[7]** Wei, Tao, et al. "Network Morphism." arXiv preprint arXiv:1603.01670 (2016). [pdf] (Modify previously trained network to reduce training epochs) :star::star::star:
+
+  **[8]** Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural network with pruning, trained quantization and huffman coding." CoRR, abs/1510.00149 2 (2015). [pdf] (ICLR best paper, new direction to make NN running fast,DeePhi Tech Startup) :star::star::star::star::star:
+
+  **[9]** Iandola, Forrest N., et al. "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size." arXiv preprint arXiv:1602.07360 (2016). [pdf] (Also a new direction to optimize NN,DeePhi Tech Startup) :star::star::star::star:
+
+  - Optimization
+  **[0]** 	Sebastian Ruder:An overview of gradient descent optimization algorithms. CoRR abs/1609.04747 (2016):star::star::star::star::star:(http://ruder.io/optimizing-gradient-descent/)
+  
+  **[1]** Back Propagation Algorithm(https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
+ 
+  **[2]** Andrychowicz, Marcin, et al. "Learning to learn by gradient descent by gradient descent." arXiv preprint arXiv:1606.04474 (2016). [pdf] (Neural Optimizer,Amazing Work) :star::star::star::star::star:
+  
 
 # Journals and Periardical
   **Machine Learning and Theories**
@@ -75,9 +117,9 @@
 
 # Public Accounts
 
-  - 机器之心
+  - 机器之心
   
-  - 新智元
+  - 新智元
   
 # Deep Learning Framework(open source framework)
 
