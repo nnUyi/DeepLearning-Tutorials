@@ -31,7 +31,7 @@
   
 # Paper List
 ## Application
-### Image Revolution and Convolution Networks
+### Image Revolution
 
   **[0]** LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. (1998d). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278–2324.(LeNet-5):star::star::star::star::star:
   
@@ -43,7 +43,7 @@
 
   **[4]** He, Kaiming, et al. "Deep residual learning for image recognition." arXiv preprint arXiv:1512.03385 (2015).(ResNet,Very very deep networks, CVPR best paper) :star::star::star::star::star:
   
-### Semantic Segmentation and Object Detection
+### Object Detection
   
   **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)
   
@@ -54,6 +54,33 @@
   **[3]** 	Shaoqing Ren, Kaiming He, Ross B. Girshick, Jian Sun:Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. NIPS 2015(Faster RCNN):https://github.com/ShaoqingRen/faster_rcnn
   
   **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017)(Mask RCNN)
+
+### Deep Learning in SLAM
+  **[0]** 
+  **[1]**
+  **[2]**
+  **[3]**
+  **[4]**
+  **[5]**
+  **[6]** 
+  **[7]**
+  **[8]**
+  **[9]**
+  **[10]**
+  **[11]**
+  **[12]** 
+  **[13]**
+  **[14]**
+  **[15]**
+  **[16]**
+  **[17]**
+  **[18]** 
+  **[19]**
+  **[20]**
+  **[21]**
+  **[22]**
+  **[23]**
+### Semantic Segmentation
 
 ### Natural Language Processing
 
