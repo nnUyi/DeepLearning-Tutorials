@@ -55,6 +55,17 @@
   
   **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017)(Mask RCNN)
 
+### Semantic Segmentation
+  **[0]** J. Long, E. Shelhamer, and T. Darrell, “Fully convolutional networks for semantic segmentation.” in CVPR, 2015.:star::star::star::star::star:
+
+  **[1]** L.-C. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille. "Semantic image segmentation with deep convolutional nets and fully connected crfs." In ICLR, 2015.:star::star::star::star::star:
+
+  **[2]** Pinheiro, P.O., Collobert, R., Dollar, P. "Learning to segment object candidates." In: NIPS. 2015.
+
+  **[3]** Dai, J., He, K., Sun, J. "Instance-aware semantic segmentation via multi-task network cascades." in CVPR. 2016 
+
+  **[4]** Dai, J., He, K., Sun, J. "Instance-sensitive Fully Convolutional Networks." arXiv preprint arXiv:1603.08678(2016). 
+
 ### Deep Learning in SLAM
 #### Depth and Pose
   **[0]** 	Keisuke Tateno, Federico Tombari, Iro Laina, Nassir Navab:CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction. CoRR abs/1704.03489 (2017):star::star::star::star::star:
@@ -88,13 +99,26 @@
   
   **[14]** 	Eddy Ilg, Nikolaus Mayer, Tonmoy Saikia, Margret Keuper, Alexey Dosovitskiy, Thomas Brox:FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks. CoRR abs/1612.01925 (2016):star::star::star::star::star:
 
-### Semantic Segmentation
-
 ### Natural Language Processing
 
 ### Speech Recognization
 
 ## Model
+### Unsupervised Model
+  **[0]** Le, Quoc V. "Building high-level features using large scale unsupervised learning." 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013.(Milestone, Andrew Ng, Google Brain Project, Cat) 
+
+  **[1]** Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).(VAE) :star::star::star::star::star:
+
+  **[2]** Goodfellow, Ian, et al. "Generative adversarial nets." Advances in Neural Information Processing Systems. 2014.(GAN,super cool idea) :star::star::star::star::star:
+
+  **[3]** Radford, Alec, Luke Metz, and Soumith Chintala. "Unsupervised representation learning with deep convolutional generative adversarial networks." arXiv preprint arXiv:1511.06434 (2015).(DCGAN) :star::star::star::star::star:
+
+  **[4]** Gregor, Karol, et al. "DRAW: A recurrent neural network for image generation." arXiv preprint arXiv:1502.04623 (2015). [pdf] (VAE with attention, outstanding work) :star::star::star::star::star:
+
+  **[5]** Oord, Aaron van den, Nal Kalchbrenner, and Koray Kavukcuoglu. "Pixel recurrent neural networks." arXiv preprint arXiv:1601.06759 (2016). (PixelRNN)
+
+  **[6]** Oord, Aaron van den, et al. "Conditional image generation with PixelCNN decoders." arXiv preprint arXiv:1606.05328 (2016).
+
 ### RNN LSTM GRU etc.
    **[0]** Graves, Alex. "Generating sequences with recurrent neural networks." arXiv preprint arXiv:1308.0850 (2013).(LSTM, very nice generating result, show the power of RNN)
 
