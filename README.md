@@ -147,9 +147,20 @@
    - tanh
    - relu
    - lerelu
+   - elu
+   - selu
+   - prelu
    - maxout
-   - swish
+   - **swish**
    - softplus
+   - softshrink
+   - softsign
+   - tanhshrink
+   - softmin
+   - softmax
+   - logsoftmax
+   - softmax2d
+   - etc.
 
    **relu, lerelu, tanh, sigmoid** is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
     
