@@ -45,7 +45,7 @@
   
 ### Object Detection
   
-  **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)
+  **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)https://coggle.it/diagram/Wf5mYoJbsgABUF9P 
   
   **[1]** 	Ross B. Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik:Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation. CVPR 2014(RCNN)
   
@@ -243,6 +243,7 @@
    <p align="center"><img width="40%" src="Neural_Net_Arch_Genealogy.png" /></p>
    
   - deep_architecture_genealogy:https://github.com/hunkim/deep_architecture_genealogy
+  - coggle link:https://coggle.it/diagram/Wf5mYoJbsgABUF9P 
   
 # New Architecture
   - Generative Adversarial Networks
