@@ -253,13 +253,12 @@
   - coggle link:https://coggle.it/diagram/Wf5mYoJbsgABUF9P 
   
 # New Architecture
-
-  - Convolution Neural Networks
+  - Convolution Neural Networks
   
   - Recurrent Neural Networks
   
-  - Generative Adversarial Networks
-  
+  - Generative Adversarial Networks
+
   - Capsules(Dynamic Routing Between Capsules--by Hinton)
   
 # References
