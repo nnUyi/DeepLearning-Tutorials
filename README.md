@@ -68,7 +68,7 @@
 
 ### Deep Learning in SLAM
 #### Depth and Pose
-  **[0]** 	Keisuke Tateno, Federico Tombari, Iro Laina, Nassir Navab:CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction. CoRR abs/1704.03489 (2017):star::star::star::star::star:
+  **[0]** 	Keisuke Tateno, Federico Tombari, Iro Laina, Nassir Navab:CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction. cvpr(2017):star::star::star::star::star:
   
   **[1]** 	Vikram Mohanty, Shubh Agrawal, Shaswat Datta, Arna Ghosh, Vishnu Dutt Sharma, Debashish Chakravarty:DeepVO: A Deep Learning approach for Monocular Visual Odometry. CoRR abs/1611.06069 (2016)
 
