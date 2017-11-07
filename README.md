@@ -56,30 +56,24 @@
   **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017)(Mask RCNN)
 
 ### Deep Learning in SLAM
-  **[0]** 
-  **[1]**
-  **[2]**
-  **[3]**
-  **[4]**
-  **[5]**
-  **[6]** 
-  **[7]**
-  **[8]**
-  **[9]**
-  **[10]**
-  **[11]**
-  **[12]** 
-  **[13]**
-  **[14]**
-  **[15]**
-  **[16]**
-  **[17]**
-  **[18]** 
-  **[19]**
-  **[20]**
-  **[21]**
-  **[22]**
-  **[23]**
+#### Depth and Pose
+  **[0]** CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction
+  **[1]** DeepVO: A Deep Learning approach for Monocular Visual Odometry
+  **[2]** DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks
+  **[3]** DeMoN: Depth and Motion Network for Learning Monocular Stereo
+  **[4]** Image-based Localization with Spatial LSTMs
+  **[5]** Geometric loss functions for camera pose regression with deep learning
+  **[6]** Learning visual odometry with a convolutional network
+  **[7]** Semi-Supervised Deep Learning for Monocular Depth Map Prediction
+  **[8]** UnDeepVO: Monocular Visual Odometry through Unsupervised Deep Learning
+  **[9]** Unsupervised Learning of Depth and Ego-Motion from Video
+  **[10]** Unsupervised learning of depth and motion
+  **[11]** Unsupervised Monocular Depth Estimation with Left-Right Consistency
+#### Flow
+  **[12]** Slow Flow: Exploiting High-Speed Cameras for Accurate and Diverse Optical Flow Reference Data
+  **[13]** Optical Flow Estimation using a Spatial Pyramid Network
+  **[14]** FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
+
 ### Semantic Segmentation
 
 ### Natural Language Processing
