@@ -239,6 +239,9 @@
      
      Pytorch:https://github.com/znxlwm/pytorch-generative-model-collections
 
+## Deep Architecture Genealogy
+   <p align="center"><img width="40%" src="Neural_Net_Arch_Genealogy.png" /></p>
+  - deep_architecture_genealogy:https://github.com/hunkim/deep_architecture_genealogy
 # New Architecture
   - Generative Adversarial Networks
   - Capsules(Dynamic Routing Between Capsules--by Hinton)
