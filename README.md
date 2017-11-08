@@ -17,7 +17,20 @@
   - 《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
   
   - 《Pattern Recognition and Machine Learning》--Christopher M. Bishop
-     
+
+  - 《Reinforcement Learning: An Introduction》--Richard Sutton
+  
+    - Book:
+     - https://pan.baidu.com/s/1miP38tM
+     - http://incompleteideas.net/sutton/book/bookdraft2017nov5.pdf
+
+    - codes:
+     - https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+
+    - course materials:
+     - http://incompleteideas.net/sutton/book/the-book-2nd.html
+
+
 # Courses List
  - Machine Learning--by Andrew Ng, Standford(https://www.coursera.org/learn/machine-learning)
   
@@ -104,16 +117,6 @@
 ### Speech Recognization
 
 ### Reinforcement Learning
-  **[0]** Richard Sutton, Reinforcement Learning: An Introduction
-     - Book:
-      - https://pan.baidu.com/s/1miP38tM
-      - http://incompleteideas.net/sutton/book/bookdraft2017nov5.pdf
-
-     - codes:
-      - https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
-
-     - course materials:
-      - http://incompleteideas.net/sutton/book/the-book-2nd.html
 
 ## Model
 ### Unsupervised Model
