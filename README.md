@@ -18,15 +18,15 @@
   
   - 《Pattern Recognition and Machine Learning》--Christopher M. Bishop
   - 《Reinforcement Learning: An Introduction》--Richard Sutton
-   - Book:
-    - https://pan.baidu.com/s/1miP38tM
-    - http://incompleteideas.net/sutton/book/bookdraft2017nov5.pdf
+    - Book:
+     - https://pan.baidu.com/s/1miP38tM
+     - http://incompleteideas.net/sutton/book/bookdraft2017nov5.pdf
 
-   - codes:
-    - https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+    - codes:
+     - https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 
-   - course materials:
-    - http://incompleteideas.net/sutton/book/the-book-2nd.html
+    - course materials:
+     - http://incompleteideas.net/sutton/book/the-book-2nd.html
 
 
 # Courses List
