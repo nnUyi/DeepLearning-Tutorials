@@ -103,6 +103,18 @@
 
 ### Speech Recognization
 
+### Reinforcement Learning
+  **[0]** Richard Sutton, Reinforcement Learning: An Introduction
+     - Book:
+      - https://pan.baidu.com/s/1miP38tM
+      - http://incompleteideas.net/sutton/book/bookdraft2017nov5.pdf
+
+     - codes:
+      - https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+
+     - course materials:
+      - http://incompleteideas.net/sutton/book/the-book-2nd.html
+
 ## Model
 ### Unsupervised Model
   **[0]** Le, Quoc V. "Building high-level features using large scale unsupervised learning." 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013.(Milestone, Andrew Ng, Google Brain Project, Cat) 
