@@ -17,7 +17,18 @@
   - 《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
   
   - 《Pattern Recognition and Machine Learning》--Christopher M. Bishop
-     
+  - 《Reinforcement Learning: An Introduction》--Richard Sutton
+    - Book:
+     - https://pan.baidu.com/s/1miP38tM
+     - http://incompleteideas.net/sutton/book/bookdraft2017nov5.pdf
+
+    - codes:
+     - https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+
+    - course materials:
+     - http://incompleteideas.net/sutton/book/the-book-2nd.html
+
+
 # Courses List
  - Machine Learning--by Andrew Ng, Standford(https://www.coursera.org/learn/machine-learning)
   
@@ -45,7 +56,7 @@
   
 ### Object Detection
   
-  **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)
+  **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)https://coggle.it/diagram/Wf5mYoJbsgABUF9P 
   
   **[1]** 	Ross B. Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik:Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation. CVPR 2014(RCNN)
   
@@ -103,6 +114,8 @@
 
 ### Speech Recognization
 
+### Reinforcement Learning
+
 ## Model
 ### Unsupervised Model
   **[0]** Le, Quoc V. "Building high-level features using large scale unsupervised learning." 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013.(Milestone, Andrew Ng, Google Brain Project, Cat) 
@@ -147,9 +160,20 @@
    - tanh
    - relu
    - lerelu
+   - elu
+   - selu
+   - prelu
    - maxout
-   - swish
+   - **swish**
    - softplus
+   - softshrink
+   - softsign
+   - tanhshrink
+   - softmin
+   - softmax
+   - logsoftmax
+   - softmax2d
+   - etc.
 
    **relu, lerelu, tanh, sigmoid** is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
     
@@ -218,10 +242,17 @@
   
 # Deep Learning Framework(open source framework)
   - Tensorflow(https://www.tensorflow.org/api_docs/)
+    - Learning codes:https://github.com/MorvanZhou/Tensorflow-Tutorial
+    
   - Caffe(http://caffe.berkeleyvision.org/)
+  
   - Pytorch(http://pytorch.org/docs/master/)
+    - Learning codes:https://github.com/hunkim/pytorch-tutorial
+    
   - Keras(https://keras.io/)
+  
   - Mxnet(https://mxnet.incubator.apache.org/get_started/)
+  
   - etc.
  
 # Other Sources
@@ -243,9 +274,15 @@
    <p align="center"><img width="40%" src="Neural_Net_Arch_Genealogy.png" /></p>
    
   - deep_architecture_genealogy:https://github.com/hunkim/deep_architecture_genealogy
+  - coggle link:https://coggle.it/diagram/Wf5mYoJbsgABUF9P 
   
 # New Architecture
+  - Convolution Neural Networks
+  
+  - Recurrent Neural Networks
+  
   - Generative Adversarial Networks
+
   - Capsules(Dynamic Routing Between Capsules--by Hinton)
   
 # References
