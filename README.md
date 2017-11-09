@@ -39,7 +39,13 @@
  - Stat212b：Topics Course on Deep Learning--by Joan Bruna(http://joanbruna.github.io/stat212b/)
   
  - CS224d: Deep Learning for Natural Language Processing--by Richard Socher(http://cs224d.stanford.edu/)
-  
+ 
+ - STATS385: Theories of Deep Learning --by Bruna、Mallat、Mhaskar、Poggio、Papyan et al
+  - course addr: https://stats385.github.io
+  - course slides: https://stats385.github.io/lecture_slides
+  - course videos: https://www.researchgate.net/project/Theories-of-Deep-Learning
+  - videos in bilibili:https://www.bilibili.com/video/av16136625/
+  
 # Paper List
 ## Application
 ### Image Revolution
