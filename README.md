@@ -119,9 +119,9 @@
   
   **[2]** Sara Sabour, Nicholas Frosst, Geoffrey E. Hinton:Dynamic Routing Between Capsules. NIPS (2017):star::star::star::star::star:
   
-  **[3]** 	Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen:Progressive Growing of GANs for Improved Quality, Stability, and Variation. ICLR(2018)
+  **[3]** Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen:Progressive Growing of GANs for Improved Quality, Stability, and Variation. ICLR(2018)
   
-  **[4]** 	Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, Shin Ishii:Virtual Adversarial Training: a Regularization Method for Supervised and Semi-supervised Learning. CoRR abs/1704.03976 (2017)
+  **[4]** Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, Shin Ishii:Virtual Adversarial Training: a Regularization Method for Supervised and Semi-supervised Learning. CoRR abs/1704.03976 (2017)
 
 ### Natural Language Processing
 
