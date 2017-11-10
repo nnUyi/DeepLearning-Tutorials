@@ -6,8 +6,8 @@
   - 《机器学习实战》--Peter Harrington
     
   - 《机器学习》--周志华
-    
-  - 《统计和机器学习》--李航
+  
+  - 《统计学习方法》--李航
     
   - 《神经网络与深度学习》--邱锡鹏（https://nndl.github.io/）
     
@@ -42,7 +42,8 @@
   
 # Paper List
 ## Application
-### Image Revolution
+### Computer Vision
+#### Image Revolution
 
   **[0]** LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. (1998d). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278–2324.(LeNet-5):star::star::star::star::star:
   
@@ -54,7 +55,7 @@
 
   **[4]** He, Kaiming, et al. "Deep residual learning for image recognition." arXiv preprint arXiv:1512.03385 (2015).(ResNet,Very very deep networks, CVPR best paper) :star::star::star::star::star:
   
-### Object Detection
+#### Object Detection
   
   **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)https://coggle.it/diagram/Wf5mYoJbsgABUF9P 
   
@@ -66,7 +67,7 @@
   
   **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017)(Mask RCNN)
 
-### Semantic Segmentation
+#### Semantic Segmentation
   **[0]** J. Long, E. Shelhamer, and T. Darrell, “Fully convolutional networks for semantic segmentation.” in CVPR, 2015.:star::star::star::star::star:
 
   **[1]** L.-C. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille. "Semantic image segmentation with deep convolutional nets and fully connected crfs." In ICLR, 2015.:star::star::star::star::star:
@@ -77,8 +78,8 @@
 
   **[4]** Dai, J., He, K., Sun, J. "Instance-sensitive Fully Convolutional Networks." arXiv preprint arXiv:1603.08678(2016). 
 
-### Deep Learning in SLAM
-#### Depth and Pose
+#### Deep Learning in SLAM
+##### Depth and Pose
   **[0]** 	Keisuke Tateno, Federico Tombari, Iro Laina, Nassir Navab:CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction. cvpr(2017):star::star::star::star::star:
   
   **[1]** 	Vikram Mohanty, Shubh Agrawal, Shaswat Datta, Arna Ghosh, Vishnu Dutt Sharma, Debashish Chakravarty:DeepVO: A Deep Learning approach for Monocular Visual Odometry. CoRR abs/1611.06069 (2016)
@@ -103,12 +104,24 @@
   
   **[11]** 	Clément Godard, Oisin Mac Aodha, Gabriel J. Brostow:Unsupervised Monocular Depth Estimation with Left-Right Consistency. CoRR abs/1609.03677 (2016):star::star::star::star::star:
   
-#### Optical Flow
+##### Optical Flow
   **[12]** Slow Flow: Exploiting High-Speed Cameras for Accurate and Diverse Optical Flow Reference Data
   
   **[13]** 	Anurag Ranjan, Michael J. Black:Optical Flow Estimation using a Spatial Pyramid Network. CoRR abs/1611.00850 (2016)
   
   **[14]** 	Eddy Ilg, Nikolaus Mayer, Tonmoy Saikia, Margret Keuper, Alexey Dosovitskiy, Thomas Brox:FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks. CoRR abs/1612.01925 (2016):star::star::star::star::star:
+
+#### Other state-of-the-art Paper
+  
+  **[0]** 	Dan C. Ciresan, Ueli Meier, Jonathan Masci, Luca Maria Gambardella, Jürgen Schmidhuber:High-Performance Neural Networks for Visual Object Classification. CoRR abs/1102.0183 (2011)
+  
+  **[1]** T Miyato, S Maeda, M Koyama, K Nakae, S Ishii:Distributional Smoothing With Virtual Adversarial Training. CS(2015)
+  
+  **[2]** Sara Sabour, Nicholas Frosst, Geoffrey E. Hinton:Dynamic Routing Between Capsules. NIPS (2017):star::star::star::star::star:
+  
+  **[3]** Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen:Progressive Growing of GANs for Improved Quality, Stability, and Variation. ICLR(2018)
+  
+  **[4]** Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, Shin Ishii:Virtual Adversarial Training: a Regularization Method for Supervised and Semi-supervised Learning. CoRR abs/1704.03976 (2017)
 
 ### Natural Language Processing
 
@@ -153,30 +166,7 @@
      - Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei:Deformable Convolutional Networks. CoRR abs/1703.06211 (2017)
      
    **[2]** Conventional Convolutional Kernel
-    
-### Types of Activation
-   - sigmoid   
-   - hard sigmoid
-   - tanh
-   - relu
-   - lerelu
-   - elu
-   - selu
-   - prelu
-   - maxout
-   - **swish**
-   - softplus
-   - softshrink
-   - softsign
-   - tanhshrink
-   - softmin
-   - softmax
-   - logsoftmax
-   - softmax2d
-   - etc.
-
-   **relu, lerelu, tanh, sigmoid** is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
-    
+        
 ### Model Constraints
   **[0]** Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). (Dropout) 
 
@@ -217,6 +207,29 @@
    - Nadam
 
    :star::star::star::star::star:**Adam** is a better choice
+
+### Types of Activation
+   - sigmoid   
+   - hard sigmoid
+   - tanh
+   - relu
+   - lerelu
+   - elu
+   - selu
+   - prelu
+   - maxout
+   - **swish**
+   - softplus
+   - softshrink
+   - softsign
+   - tanhshrink
+   - softmin
+   - softmax
+   - logsoftmax
+   - softmax2d
+   - etc.
+
+   **relu, lerelu, tanh, sigmoid** is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
 
 # Journals and Periardical
   **Machine Learning and Theories** 
