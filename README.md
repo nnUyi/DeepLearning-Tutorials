@@ -6,7 +6,7 @@
   - 《机器学习实战》--Peter Harrington
     
   - 《机器学习》--周志华
-    
+  
   - 《统计学习方法》--李航
     
   - 《神经网络与深度学习》--邱锡鹏（https://nndl.github.io/）
@@ -111,11 +111,17 @@
   
   **[14]** 	Eddy Ilg, Nikolaus Mayer, Tonmoy Saikia, Margret Keuper, Alexey Dosovitskiy, Thomas Brox:FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks. CoRR abs/1612.01925 (2016):star::star::star::star::star:
 
-#### Classification
-  **[0]** Dynamic Routing Between Capsules
-  **[1]** High-Performance Neural Networks for Visual Object Classification
+#### Other state-of-the-art Paper
   
-
+  **[0]** 	Dan C. Ciresan, Ueli Meier, Jonathan Masci, Luca Maria Gambardella, Jürgen Schmidhuber:High-Performance Neural Networks for Visual Object Classification. CoRR abs/1102.0183 (2011)
+  
+  **[1]** T Miyato, S Maeda, M Koyama, K Nakae, S Ishii:Distributional Smoothing With Virtual Adversarial Training. CS(2015)
+  
+  **[2]** Sara Sabour, Nicholas Frosst, Geoffrey E. Hinton:Dynamic Routing Between Capsules. NIPS (2017):star::star::star::star::star:
+  
+  **[3]** 	Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen:Progressive Growing of GANs for Improved Quality, Stability, and Variation. ICLR(2018)
+  
+  **[4]** 	Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, Shin Ishii:Virtual Adversarial Training: a Regularization Method for Supervised and Semi-supervised Learning. CoRR abs/1704.03976 (2017)
 
 ### Natural Language Processing
 
@@ -160,30 +166,7 @@
      - Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei:Deformable Convolutional Networks. CoRR abs/1703.06211 (2017)
      
    **[2]** Conventional Convolutional Kernel
-    
-### Types of Activation
-   - sigmoid   
-   - hard sigmoid
-   - tanh
-   - relu
-   - lerelu
-   - elu
-   - selu
-   - prelu
-   - maxout
-   - **swish**
-   - softplus
-   - softshrink
-   - softsign
-   - tanhshrink
-   - softmin
-   - softmax
-   - logsoftmax
-   - softmax2d
-   - etc.
-
-   **relu, lerelu, tanh, sigmoid** is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
-    
+        
 ### Model Constraints
   **[0]** Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). (Dropout) 
 
@@ -224,6 +207,29 @@
    - Nadam
 
    :star::star::star::star::star:**Adam** is a better choice
+
+### Types of Activation
+   - sigmoid   
+   - hard sigmoid
+   - tanh
+   - relu
+   - lerelu
+   - elu
+   - selu
+   - prelu
+   - maxout
+   - **swish**
+   - softplus
+   - softshrink
+   - softsign
+   - tanhshrink
+   - softmin
+   - softmax
+   - logsoftmax
+   - softmax2d
+   - etc.
+
+   **relu, lerelu, tanh, sigmoid** is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
 
 # Journals and Periardical
   **Machine Learning and Theories** 
