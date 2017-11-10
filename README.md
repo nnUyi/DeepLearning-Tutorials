@@ -7,7 +7,7 @@
     
   - 《机器学习》--周志华
     
-  - 《统计和机器学习》--李航
+  - 《统计学习方法》--李航
     
   - 《神经网络与深度学习》--邱锡鹏（https://nndl.github.io/）
     
@@ -42,7 +42,8 @@
   
 # Paper List
 ## Application
-### Image Revolution
+### Computer Vision
+#### Image Revolution
 
   **[0]** LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. (1998d). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278–2324.(LeNet-5):star::star::star::star::star:
   
@@ -54,7 +55,7 @@
 
   **[4]** He, Kaiming, et al. "Deep residual learning for image recognition." arXiv preprint arXiv:1512.03385 (2015).(ResNet,Very very deep networks, CVPR best paper) :star::star::star::star::star:
   
-### Object Detection
+#### Object Detection
   
   **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)https://coggle.it/diagram/Wf5mYoJbsgABUF9P 
   
@@ -66,7 +67,7 @@
   
   **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017)(Mask RCNN)
 
-### Semantic Segmentation
+#### Semantic Segmentation
   **[0]** J. Long, E. Shelhamer, and T. Darrell, “Fully convolutional networks for semantic segmentation.” in CVPR, 2015.:star::star::star::star::star:
 
   **[1]** L.-C. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille. "Semantic image segmentation with deep convolutional nets and fully connected crfs." In ICLR, 2015.:star::star::star::star::star:
@@ -77,8 +78,8 @@
 
   **[4]** Dai, J., He, K., Sun, J. "Instance-sensitive Fully Convolutional Networks." arXiv preprint arXiv:1603.08678(2016). 
 
-### Deep Learning in SLAM
-#### Depth and Pose
+#### Deep Learning in SLAM
+##### Depth and Pose
   **[0]** 	Keisuke Tateno, Federico Tombari, Iro Laina, Nassir Navab:CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction. cvpr(2017):star::star::star::star::star:
   
   **[1]** 	Vikram Mohanty, Shubh Agrawal, Shaswat Datta, Arna Ghosh, Vishnu Dutt Sharma, Debashish Chakravarty:DeepVO: A Deep Learning approach for Monocular Visual Odometry. CoRR abs/1611.06069 (2016)
@@ -103,12 +104,18 @@
   
   **[11]** 	Clément Godard, Oisin Mac Aodha, Gabriel J. Brostow:Unsupervised Monocular Depth Estimation with Left-Right Consistency. CoRR abs/1609.03677 (2016):star::star::star::star::star:
   
-#### Optical Flow
+##### Optical Flow
   **[12]** Slow Flow: Exploiting High-Speed Cameras for Accurate and Diverse Optical Flow Reference Data
   
   **[13]** 	Anurag Ranjan, Michael J. Black:Optical Flow Estimation using a Spatial Pyramid Network. CoRR abs/1611.00850 (2016)
   
   **[14]** 	Eddy Ilg, Nikolaus Mayer, Tonmoy Saikia, Margret Keuper, Alexey Dosovitskiy, Thomas Brox:FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks. CoRR abs/1612.01925 (2016):star::star::star::star::star:
+
+#### Classification
+  **[0]** Dynamic Routing Between Capsules
+  **[1]** High-Performance Neural Networks for Visual Object Classification
+  
+
 
 ### Natural Language Processing
 
