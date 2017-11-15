@@ -156,7 +156,7 @@
 
    **[4]** Vinyals, Oriol, and Quoc Le. "A neural conversational model." arXiv preprint arXiv:1506.05869 (2015).(Seq-to-Seq on Chatbot)
    
-   **[5]** Understanding LSTM Networks  :star::star::star::star::star:(http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+   **[5]** [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  :star::star::star::star::star:
    
 ### Types of CNN
    **[0]** Dilated Convolutional Kernel
@@ -165,7 +165,7 @@
    **[1]** Deformable Convolutional Kernel
      - Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei:Deformable Convolutional Networks. CoRR abs/1703.06211 (2017)
      
-   **[2]** Conventional Convolutional Kernel
+   **[2]** [Conventional Convolutional Kernel](http://mp.weixin.qq.com/s/Q_3CpoANvkmaBpMuDHwl1A):star::star::star::star::star:
         
 ### Model Constraints
   **[0]** Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). (Dropout) 
@@ -295,6 +295,8 @@
   - Recurrent Neural Networks
   
   - Generative Adversarial Networks
+  
+  - Dense Network
 
   - Capsules(Dynamic Routing Between Capsules--by Hinton)
   
