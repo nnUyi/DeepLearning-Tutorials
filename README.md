@@ -285,15 +285,13 @@
    
      (1)cycle-gan
      
-       [blog](https://hardikbansal.github.io/CycleGANBlog/)
-       
-       [code](https://github.com/xhujoy/CycleGAN-tensorflow)
+       - [blog](https://hardikbansal.github.io/CycleGANBlog/)
+       - [code](https://github.com/xhujoy/CycleGAN-tensorflow)
    
      (2)progressive-grow gan
      
-       [blog](None)
-       
-       [code](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
+       - [blog](None)
+       - [code](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
        
 ## Deep Architecture Genealogy
    <p align="center"><img width="40%" src="Neural_Net_Arch_Genealogy.png" /></p>
