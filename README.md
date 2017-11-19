@@ -278,11 +278,21 @@
          https://github.com/soumith/ganhacks
           
    - GAN Codes
-   
+
      Tensorflow:https://github.com/hwalsuklee/tensorflow-generative-model-collections
      
      Pytorch:https://github.com/znxlwm/pytorch-generative-model-collections
 
+   - Something interesting about GAN
+   
+     (1)cycle-gan
+       [blog](https://hardikbansal.github.io/CycleGANBlog/)
+       [code](https://github.com/xhujoy/CycleGAN-tensorflow)
+   
+     (2)progressive-grow gan
+       [blog](None)
+       [code](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
+       
 ## Deep Architecture Genealogy
    <p align="center"><img width="40%" src="Neural_Net_Arch_Genealogy.png" /></p>
    
@@ -297,6 +307,8 @@
   - Generative Adversarial Networks
 
   - Capsules(Dynamic Routing Between Capsules--by Hinton)
+  
+  - [DiracNet](https://arxiv.org/abs/1706.00388)(DiracNets: Training Very Deep Neural Networks Without Skip-Connections)
   
 # References
  - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md
