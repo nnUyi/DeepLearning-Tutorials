@@ -254,35 +254,45 @@
   - 新智元
   
 # Deep Learning Framework(open source framework)
-  - Tensorflow(https://www.tensorflow.org/api_docs/)
+  - [Tensorflow](https://www.tensorflow.org/api_docs/)
     - Learning codes:https://github.com/MorvanZhou/Tensorflow-Tutorial
     
-  - Caffe(http://caffe.berkeleyvision.org/)
+  - [Caffe](http://caffe.berkeleyvision.org/)
   
-  - Pytorch(http://pytorch.org/docs/master/)
+  - [Pytorch](http://pytorch.org/docs/master/)
     - Learning codes:https://github.com/hunkim/pytorch-tutorial
     
-  - Keras(https://keras.io/)
+  - [Keras](https://keras.io/)
   
-  - Mxnet(https://mxnet.incubator.apache.org/get_started/)
+  - [Mxnet](https://mxnet.incubator.apache.org/get_started/)
   
   - etc.
  
 # Other Sources
 ## Generative Adversarial Networks:(GAN):
 
-   - GAN Paper
-         https://github.com/hindupuravinash/the-gan-zoo
+   - [GAN Paper](https://github.com/hindupuravinash/the-gan-zoo)
           
-   - GAN Tricks
-         https://github.com/soumith/ganhacks
+   - [GAN Tricks](https://github.com/soumith/ganhacks)
           
    - GAN Codes
-   
-     Tensorflow:https://github.com/hwalsuklee/tensorflow-generative-model-collections
-     
-     Pytorch:https://github.com/znxlwm/pytorch-generative-model-collections
 
+     [Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+     
+     [Pytorch](https://github.com/znxlwm/pytorch-generative-model-collections)
+
+   - Something interesting about GAN
+   
+     (1)cycle-gan
+     
+       - [blog](https://hardikbansal.github.io/CycleGANBlog/)
+       - [code](https://github.com/xhujoy/CycleGAN-tensorflow)
+   
+     (2)progressive-grow gan
+     
+       - [blog](None)
+       - [code](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
+       
 ## Deep Architecture Genealogy
    <p align="center"><img width="40%" src="Neural_Net_Arch_Genealogy.png" /></p>
    
@@ -297,6 +307,8 @@
   - Generative Adversarial Networks
 
   - Capsules(Dynamic Routing Between Capsules--by Hinton)
+  
+  - [DiracNet](https://arxiv.org/abs/1706.00388)(DiracNets: Training Very Deep Neural Networks Without Skip-Connections)
   
 # References
  - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md
