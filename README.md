@@ -78,6 +78,20 @@
 
   **[4]** Dai, J., He, K., Sun, J. "Instance-sensitive Fully Convolutional Networks." arXiv preprint arXiv:1603.08678(2016). 
 
+#### Super-Resolution
+
+  **[0]** Dong, Chao, et al. "Image super-resolution using deep convolutional networks." IEEE transactions on pattern analysis and machine intelligence 38.2 (2016): 295-307.[SRCN]()
+  
+  **[1]** Kim, Jiwon, Jung Kwon Lee, and Kyoung Mu Lee. "Deeply-recursive convolutional network for image super-resolution." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition . 2016.[DRCN]()
+  
+  **[2]** Shi, Wenzhe, et al. "Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition . 2016.[RSPCN]()
+  
+  **[3]** Caballero, Jose, et al. "Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation." arXiv preprint arXiv:1611.05250 (2016).[VESPCN]()
+  
+  **[4]** Ledig, Christian, et al. "Photo-realistic single image super-resolution using a generative adversarial network." arXiv preprint arXiv:1609.04802 (2016).[SRGAN]()
+  
+  **[5]** Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen:Progressive Growing of GANs for Improved Quality, Stability, and Variation. CoRR abs/1710.10196 (2017).[PGGAN]()
+
 #### Deep Learning in SLAM
 ##### Depth and Pose
   **[0]** 	Keisuke Tateno, Federico Tombari, Iro Laina, Nassir Navab:CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction. cvpr(2017):star::star::star::star::star:
