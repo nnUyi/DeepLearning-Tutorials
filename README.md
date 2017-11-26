@@ -80,7 +80,7 @@
 
 #### Super-Resolution
 
-  **[0]** Dong, Chao, et al. "Image super-resolution using deep convolutional networks." IEEE transactions on pattern analysis and machine intelligence 38.2 (2016): 295-307[SRCN]()
+  **[0]** Dong, Chao, et al. "Image super-resolution using deep convolutional networks." IEEE transactions on pattern analysis and machine intelligence 38.2 (2016): 295-307.[SRCN]()
   
   **[1]** Kim, Jiwon, Jung Kwon Lee, and Kyoung Mu Lee. "Deeply-recursive convolutional network for image super-resolution." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition . 2016.[DRCN]()
   
@@ -90,7 +90,7 @@
   
   **[4]** Ledig, Christian, et al. "Photo-realistic single image super-resolution using a generative adversarial network." arXiv preprint arXiv:1609.04802 (2016).[SRGAN]()
   
-  **[5]** Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen:Progressive Growing of GANs for Improved Quality, Stability, and Variation. CoRR abs/1710.10196 (2017)[SRGAN]()
+  **[5]** Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen:Progressive Growing of GANs for Improved Quality, Stability, and Variation. CoRR abs/1710.10196 (2017).[PGGAN]()
 
 #### Deep Learning in SLAM
 ##### Depth and Pose
