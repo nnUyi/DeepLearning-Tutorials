@@ -89,7 +89,7 @@
   
   **[1]** Kim, Jiwon, Jung Kwon Lee, and Kyoung Mu Lee. "Deeply-recursive convolutional network for image super-resolution." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition . 2016.[DRCN]()
   
-  **[2]** Shi, Wenzhe, et al. "Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition . 2016.[RSPCN]()
+  **[2]** Shi, Wenzhe, et al. "Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition . 2016.[ESPCN]()
   
   **[3]** Caballero, Jose, et al. "Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation." arXiv preprint arXiv:1611.05250 (2016).[VESPCN]()
   
