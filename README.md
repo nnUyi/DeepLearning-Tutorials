@@ -275,6 +275,7 @@
 # Deep Learning Framework(open source framework)
   - [Tensorflow](https://www.tensorflow.org/api_docs/)
     - Learning codes:https://github.com/MorvanZhou/Tensorflow-Tutorial
+    - tensorflow slim: https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim
     
   - [Caffe](http://caffe.berkeleyvision.org/)
   
