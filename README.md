@@ -1,5 +1,6 @@
 # DeepLearning-Tutorials
-  This is a deep learning tutorials for someone who want to learn more about AI, Thank you for following!
+
+ - This is a deep learning tutorials for someone who want to learn more about AI, Thank you for following!
   
 # Book List
 ## Chinese Book
@@ -338,7 +339,21 @@
    
   - deep_architecture_genealogy:https://github.com/hunkim/deep_architecture_genealogy
   - coggle link:https://coggle.it/diagram/Wf5mYoJbsgABUF9P 
-  
+
+## Python Resources
+
+ - [Awesome Python](https://github.com/vinta/awesome-python)
+ 
+ - [Awesome Python CN](https://github.com/jobbole/awesome-python-cn)
+
+ - [Python doc](http://www.pythondoc.com/)
+ 
+ - [JobBole](http://python.jobbole.com/)
+ 
+ - [Python Video](http://bbs.itheima.com/thread-336964-1-1.html)
+ 
+ - [Other Links](https://www.toutiao.com/i6497381938788041230/?tt_from=mobile_qq&utm_campaign=client_share&app=news_article&utm_source=qzone&iid=17701592082&utm_medium=toutiao_android)
+ 
 # New Architecture
   - Convolution Neural Networks
   
