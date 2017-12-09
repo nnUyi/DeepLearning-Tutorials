@@ -114,6 +114,8 @@
   **[4]** Ledig, Christian, et al. "Photo-realistic single image super-resolution using a generative adversarial network." arXiv preprint arXiv:1609.04802 (2016).[SRGAN]()
   
   **[5]** Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen:Progressive Growing of GANs for Improved Quality, Stability, and Variation. CoRR abs/1710.10196 (2017).[PGGAN]()
+  
+  **[6]** Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro:High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. CoRR abs/1711.11585 (2017).[Pix2PixHD](https://tcwang0509.github.io/pix2pixHD/)
 
 #### Deep Learning in SLAM
 ##### Depth and Pose
