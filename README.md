@@ -35,16 +35,34 @@
 
 
 # Courses List
- - Machine Learning--by Andrew Ng, Standford(https://www.coursera.org/learn/machine-learning)
+ - [Machine Learning--by Andrew Ng, Standford](https://www.coursera.org/learn/machine-learning)
   
- - Deep Learning -- by Andrew Ng, Standford(https://www.coursera.org/specializations/deep-learning)
+ - [Deep Learning -- by Andrew Ng, Standford](https://www.coursera.org/specializations/deep-learning)
 
- - CS231n: Convolutional Neural Networks for Visual Recognition--by Feifei Li(http://cs231n.stanford.edu/syllabus.html)
+ - [CS231n: Convolutional Neural Networks for Visual Recognition--by Feifei Li](http://cs231n.stanford.edu/syllabus.html)
   
- - Stat212b：Topics Course on Deep Learning--by Joan Bruna(http://joanbruna.github.io/stat212b/)
+ - [Stat212b：Topics Course on Deep Learning--by Joan Bruna](http://joanbruna.github.io/stat212b/)
   
- - CS224d: Deep Learning for Natural Language Processing--by Richard Socher(http://cs224d.stanford.edu/)
-  
+ - [CS224d: Deep Learning for Natural Language Processing--by Richard Socher](http://cs224d.stanford.edu/)
+ 
+ - Algorithms: Design and Analysis
+   - [part1](https://www.class-central.com/mooc/8984/stanford-openedx-algorithms-design-and-analysis?utm_source=quartz&utm_medium=web&utm_campaign=new_courses_october)
+   - [part2](https://www.class-central.com/mooc/9250/stanford-openedx-algorithms-design-and-analysis-part-2?utm_source=quartz&utm_medium=web&utm_campaign=new_courses_october)
+   
+ - [Machine Learning](https://www.class-central.com/mooc/8995/edx-machine-learning?utm_source=quartz&utm_medium=web&utm_campaign=new_courses_october)
+ 
+ - [Improving Deep Neural Networks](https://www.class-central.com/mooc/9054/coursera-improving-deep-neural-networks-hyperparameter-tuning-regularization-and-optimization?utm_source=quartz&utm_medium=web&utm_campaign=new_courses_october)
+ 
+ - [Deep Learning Lecture](https://www.youtube.com/playlist?list=PLE6Wd9FR—EfW8dtjAuPoTuPcqmOV53Fu)
+ 
+ - [Neural Networks for Machine Learning](https://www.class-central.com/mooc/398/coursera-neural-networks-for-machine-learning)
+ 
+ - [Creative Applications of Deep Learning with TensorFlow](https://www.class-central.com/mooc/6679/kadenze-creative-applications-of-deep-learning-with-tensorflow)
+ 
+ - [Introduction to Deep Learning](https://www.class-central.com/mooc/8083/6-s191-introduction-to-deep-learning)
+ 
+ - [Deep Learning for Self-Driving Cars](https://www.class-central.com/mooc/8132/6-s094-deep-learning-for-self-driving-cars )
+ 
 # Paper List
 ## Application
 ### Computer Vision
