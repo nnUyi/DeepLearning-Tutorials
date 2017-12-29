@@ -10,9 +10,9 @@
   
   - 《统计学习方法》--李航
     
-  - 《神经网络与深度学习》--邱锡鹏（https://nndl.github.io/）
+  - [《神经网络与深度学习》--邱锡鹏]（https://nndl.github.io/）
     
-  - 《深度学习》--Ian GoodFellow, Yoshua Bengio et al(https://exacity.github.io/deeplearningbook-chinese/)
+  - [《深度学习》--Ian GoodFellow, Yoshua Bengio et al](https://exacity.github.io/deeplearningbook-chinese/)
     
 ## English Book
   - 《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
@@ -79,15 +79,15 @@
   
 #### Object Detection
   
-  **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)https://coggle.it/diagram/Wf5mYoJbsgABUF9P 
+  **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017).[FCN](https://coggle.it/diagram/Wf5mYoJbsgABUF9P)
   
-  **[1]** 	Ross B. Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik:Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation. CVPR 2014(RCNN)
+  **[1]** 	Ross B. Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik:Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation. CVPR 2014.[RCNN]()
   
-  **[2]** Ross Girshick, Redmond.Fast R-CNN: Fast Region-based Convolutional Networks for object detection. ICCV 2015(Fast RCNN):https://github.com/rbgirshick/fast-rcnn
+  **[2]** Ross Girshick, Redmond.Fast R-CNN: Fast Region-based Convolutional Networks for object detection. ICCV 2015.[Fast RCNN](https://github.com/rbgirshick/fast-rcnn)
 
-  **[3]** 	Shaoqing Ren, Kaiming He, Ross B. Girshick, Jian Sun:Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. NIPS 2015(Faster RCNN):https://github.com/ShaoqingRen/faster_rcnn
+  **[3]** 	Shaoqing Ren, Kaiming He, Ross B. Girshick, Jian Sun:Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. NIPS 2015.[Faster RCNN](https://github.com/ShaoqingRen/faster_rcnn)
   
-  **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017)(Mask RCNN)
+  **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017).[Mask RCNN]()
 
 #### Semantic Segmentation
   **[0]** J. Long, E. Shelhamer, and T. Darrell, “Fully convolutional networks for semantic segmentation.” in CVPR, 2015.:star::star::star::star::star:
@@ -184,10 +184,10 @@
   **[6]** Oord, Aaron van den, et al. "Conditional image generation with PixelCNN decoders." arXiv preprint arXiv:1606.05328 (2016).
 
  **[7]** 	Aäron van den Oord, Nal Kalchbrenner, Lasse Espeholt, Koray Kavukcuoglu, Oriol Vinyals, Alex Graves:
-Conditional Image Generation with PixelCNN Decoders. NIPS 2016: 4790-4798[pixelCNN](https://arxiv.org/pdf/1606.05328v2.pdf)
+Conditional Image Generation with PixelCNN Decoders. NIPS 2016: 4790-4798.[pixelCNN](https://arxiv.org/pdf/1606.05328v2.pdf)
  
  **[8]** 	Tim Salimans, Andrej Karpathy, Xi Chen, Diederik P. Kingma:
-PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications. CoRR abs/1701.05517 (2017)[PixelCNN++](https://openreview.net/pdf?id=BJrFC6ceg)
+PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications. CoRR abs/1701.05517 (2017).[PixelCNN++](https://openreview.net/pdf?id=BJrFC6ceg)
 
 ### RNN LSTM GRU etc.
    **[0]** Graves, Alex. "Generating sequences with recurrent neural networks." arXiv preprint arXiv:1308.0850 (2013).(LSTM, very nice generating result, show the power of RNN)
@@ -200,7 +200,7 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
 
    **[4]** Vinyals, Oriol, and Quoc Le. "A neural conversational model." arXiv preprint arXiv:1506.05869 (2015).(Seq-to-Seq on Chatbot)
    
-   **[5]** Understanding LSTM Networks  :star::star::star::star::star:(http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+   **[5]** [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  :star::star::star::star::star:
    
 ### Types of CNN
    **[0]** Dilated Convolutional Kernel
@@ -234,9 +234,9 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
 
 ### Optimization
 #### Optimization Methods
-  **[0]** 	Sebastian Ruder:An overview of gradient descent optimization algorithms. CoRR abs/1609.04747 (2016):star::star::star::star::star:(http://ruder.io/optimizing-gradient-descent/)
+  **[0]** [Sebastian Ruder](http://ruder.io/optimizing-gradient-descent/):An overview of gradient descent optimization algorithms. CoRR abs/1609.04747 (2016):star::star::star::star::star:
   
-  **[1]** Back Propagation Algorithm(https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
+  **[1]** [Back Propagation Algorithm](https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
  
   **[2]** Andrychowicz, Marcin, et al. "Learning to learn by gradient descent by gradient descent." arXiv preprint arXiv:1606.04474 (2016).(Neural Optimizer,Amazing Work)
 
@@ -273,7 +273,7 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
    - softmax2d
    - etc.
 
-   **relu, lerelu, tanh, sigmoid** is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
+   [**relu, lerelu, tanh, sigmoid**](https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6) is recommanded strongly!!!
 
 # Journals and Periardical
   **Machine Learning and Theories** 
@@ -324,6 +324,7 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
    - GAN Codes
 
      [Tensorflow_1](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+     
      [Tensorflow_2](https://github.com/nnUyi/GAN-Collections)
      
      [Pytorch](https://github.com/znxlwm/pytorch-generative-model-collections)
