@@ -26,14 +26,12 @@
   - 《Reinforcement Learning: An Introduction》--Richard Sutton
     - book:
      - https://pan.baidu.com/s/1miP38tM
-     - http://incompleteideas.net/sutton/book/bookdraft2017nov5.pdf
 
     - codes:
      - https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 
     - course materials:
      - http://incompleteideas.net/sutton/book/the-book-2nd.html
-
 
 # Courses List
  - [Machine Learning--by Andrew Ng, Standford](https://www.coursera.org/learn/machine-learning)
@@ -168,7 +166,7 @@
 ### Speech Recognization
 
 ### Reinforcement Learning
-
+  
 ## Model
 ### Unsupervised Model
   **[0]** Le, Quoc V. "Building high-level features using large scale unsupervised learning." 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013.(Milestone, Andrew Ng, Google Brain Project, Cat) 
@@ -184,6 +182,12 @@
   **[5]** Oord, Aaron van den, Nal Kalchbrenner, and Koray Kavukcuoglu. "Pixel recurrent neural networks." arXiv preprint arXiv:1601.06759 (2016). (PixelRNN)
 
   **[6]** Oord, Aaron van den, et al. "Conditional image generation with PixelCNN decoders." arXiv preprint arXiv:1606.05328 (2016).
+
+ **[7]** 	Aäron van den Oord, Nal Kalchbrenner, Lasse Espeholt, Koray Kavukcuoglu, Oriol Vinyals, Alex Graves:
+Conditional Image Generation with PixelCNN Decoders. NIPS 2016: 4790-4798[pixelCNN](https://arxiv.org/pdf/1606.05328v2.pdf)
+ 
+ **[8]** 	Tim Salimans, Andrej Karpathy, Xi Chen, Diederik P. Kingma:
+PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications. CoRR abs/1701.05517 (2017)[PixelCNN++](https://openreview.net/pdf?id=BJrFC6ceg)
 
 ### RNN LSTM GRU etc.
    **[0]** Graves, Alex. "Generating sequences with recurrent neural networks." arXiv preprint arXiv:1308.0850 (2013).(LSTM, very nice generating result, show the power of RNN)
@@ -284,6 +288,7 @@
   
   **Neural Language Processing**
   - EMNLP
+  - ACL
   
   **Artifical Intelligence**
   - AAAI
@@ -318,22 +323,26 @@
           
    - GAN Codes
 
-     [Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+     [Tensorflow_1](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+     [Tensorflow_2](https://github.com/nnUyi/GAN-Collections)
      
      [Pytorch](https://github.com/znxlwm/pytorch-generative-model-collections)
-
+   
+   - [GAN Performance Report](https://arxiv.org/abs/1711.10337)
+   
+   - [GAN video](http://www.bilibili.com/video/av16658095/index_11.html#page=11)
+   
    - Something interesting about GAN
    
-     (1)cycle-gan
+     (1) cycle-gan
      
        - [blog](https://hardikbansal.github.io/CycleGANBlog/)
        - [code](https://github.com/xhujoy/CycleGAN-tensorflow)
    
-     (2)progressive-grow gan
-     
-       - [blog](None)
+     (2) progressive-grow gan
+       - [paper](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)
        - [code](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
-       
+     
 ## Deep Architecture Genealogy
    <p align="center"><img width="40%" src="Neural_Net_Arch_Genealogy.png" /></p>
    
