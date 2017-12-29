@@ -10,7 +10,7 @@
   
   - 《统计学习方法》--李航
     
-  - 《神经网络与深度学习》--邱锡鹏. [link]（https://nndl.github.io/）
+  - 《神经网络与深度学习》--邱锡鹏.[link](https://nndl.github.io/)
     
   - 《深度学习》--Ian GoodFellow, Yoshua Bengio et al. [link](https://exacity.github.io/deeplearningbook-chinese/)
     
@@ -377,7 +377,7 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
     
     [video](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652008886&idx=3&sn=7bf5ccda237025734d451461b422f983&chksm=f1210547c6568c51c54f7ab254e0ea7e6742de0936d6f2a64e93f5f292d0e72ebd83014922df&mpshare=1&scene=22&srcid=1125cJg20BUfvM8CBevMSrfR#rd)
   
-  - [DiracNet](https://arxiv.org/abs/1706.00388)(DiracNets: Training Very Deep Neural Networks Without Skip-Connections)
+  - DiracNets: Training Very Deep Neural Networks Without Skip-Connections. [DiracNet](https://arxiv.org/abs/1706.00388)
   
 # References
  - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md
