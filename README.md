@@ -10,9 +10,9 @@
   
   - 《统计学习方法》--李航
     
-  - [《神经网络与深度学习》--邱锡鹏]（https://nndl.github.io/）
+  - 《神经网络与深度学习》--邱锡鹏. [link]（https://nndl.github.io/）
     
-  - [《深度学习》--Ian GoodFellow, Yoshua Bengio et al](https://exacity.github.io/deeplearningbook-chinese/)
+  - 《深度学习》--Ian GoodFellow, Yoshua Bengio et al. [link](https://exacity.github.io/deeplearningbook-chinese/)
     
 ## English Book
   - 《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
