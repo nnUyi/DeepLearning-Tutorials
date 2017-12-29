@@ -10,9 +10,9 @@
   
   - 《统计学习方法》--李航
     
-  - 《神经网络与深度学习》--邱锡鹏（https://nndl.github.io/）
+  - 《神经网络与深度学习》--邱锡鹏.[link](https://nndl.github.io/)
     
-  - 《深度学习》--Ian GoodFellow, Yoshua Bengio et al(https://exacity.github.io/deeplearningbook-chinese/)
+  - 《深度学习》--Ian GoodFellow, Yoshua Bengio et al. [link](https://exacity.github.io/deeplearningbook-chinese/)
     
 ## English Book
   - 《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
@@ -26,14 +26,12 @@
   - 《Reinforcement Learning: An Introduction》--Richard Sutton
     - book:
      - https://pan.baidu.com/s/1miP38tM
-     - http://incompleteideas.net/sutton/book/bookdraft2017nov5.pdf
 
     - codes:
      - https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
 
     - course materials:
      - http://incompleteideas.net/sutton/book/the-book-2nd.html
-
 
 # Courses List
  - [Machine Learning--by Andrew Ng, Standford](https://www.coursera.org/learn/machine-learning)
@@ -81,15 +79,15 @@
   
 #### Object Detection
   
-  **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017)(FCN)https://coggle.it/diagram/Wf5mYoJbsgABUF9P 
+  **[0]** 	Evan Shelhamer, Jonathan Long, Trevor Darrell:Fully Convolutional Networks for Semantic Segmentation. IEEE Trans. Pattern Anal. Mach. Intell. (2017).[FCN](https://coggle.it/diagram/Wf5mYoJbsgABUF9P)
   
-  **[1]** 	Ross B. Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik:Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation. CVPR 2014(RCNN)
+  **[1]** 	Ross B. Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik:Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation. CVPR 2014.[RCNN]()
   
-  **[2]** Ross Girshick, Redmond.Fast R-CNN: Fast Region-based Convolutional Networks for object detection. ICCV 2015(Fast RCNN):https://github.com/rbgirshick/fast-rcnn
+  **[2]** Ross Girshick, Redmond.Fast R-CNN: Fast Region-based Convolutional Networks for object detection. ICCV 2015.[Fast RCNN](https://github.com/rbgirshick/fast-rcnn)
 
-  **[3]** 	Shaoqing Ren, Kaiming He, Ross B. Girshick, Jian Sun:Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. NIPS 2015(Faster RCNN):https://github.com/ShaoqingRen/faster_rcnn
+  **[3]** 	Shaoqing Ren, Kaiming He, Ross B. Girshick, Jian Sun:Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks. NIPS 2015.[Faster RCNN](https://github.com/ShaoqingRen/faster_rcnn)
   
-  **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017)(Mask RCNN)
+  **[4]** 	Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross B. Girshick:Mask R-CNN. CVPR (2017).[Mask RCNN]()
 
 #### Semantic Segmentation
   **[0]** J. Long, E. Shelhamer, and T. Darrell, “Fully convolutional networks for semantic segmentation.” in CVPR, 2015.:star::star::star::star::star:
@@ -168,7 +166,7 @@
 ### Speech Recognization
 
 ### Reinforcement Learning
-
+  
 ## Model
 ### Unsupervised Model
   **[0]** Le, Quoc V. "Building high-level features using large scale unsupervised learning." 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013.(Milestone, Andrew Ng, Google Brain Project, Cat) 
@@ -185,6 +183,12 @@
 
   **[6]** Oord, Aaron van den, et al. "Conditional image generation with PixelCNN decoders." arXiv preprint arXiv:1606.05328 (2016).
 
+ **[7]** 	Aäron van den Oord, Nal Kalchbrenner, Lasse Espeholt, Koray Kavukcuoglu, Oriol Vinyals, Alex Graves:
+Conditional Image Generation with PixelCNN Decoders. NIPS 2016: 4790-4798.[pixelCNN](https://arxiv.org/pdf/1606.05328v2.pdf)
+ 
+ **[8]** 	Tim Salimans, Andrej Karpathy, Xi Chen, Diederik P. Kingma:
+PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications. CoRR abs/1701.05517 (2017).[PixelCNN++](https://openreview.net/pdf?id=BJrFC6ceg)
+
 ### RNN LSTM GRU etc.
    **[0]** Graves, Alex. "Generating sequences with recurrent neural networks." arXiv preprint arXiv:1308.0850 (2013).(LSTM, very nice generating result, show the power of RNN)
 
@@ -196,7 +200,7 @@
 
    **[4]** Vinyals, Oriol, and Quoc Le. "A neural conversational model." arXiv preprint arXiv:1506.05869 (2015).(Seq-to-Seq on Chatbot)
    
-   **[5]** Understanding LSTM Networks  :star::star::star::star::star:(http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+   **[5]** [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  :star::star::star::star::star:
    
 ### Types of CNN
    **[0]** Dilated Convolutional Kernel
@@ -230,9 +234,9 @@
 
 ### Optimization
 #### Optimization Methods
-  **[0]** 	Sebastian Ruder:An overview of gradient descent optimization algorithms. CoRR abs/1609.04747 (2016):star::star::star::star::star:(http://ruder.io/optimizing-gradient-descent/)
+  **[0]** [Sebastian Ruder](http://ruder.io/optimizing-gradient-descent/):An overview of gradient descent optimization algorithms. CoRR abs/1609.04747 (2016):star::star::star::star::star:
   
-  **[1]** Back Propagation Algorithm(https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
+  **[1]** [Back Propagation Algorithm](https://page.mi.fu-berlin.de/rojas/neural/chapter/K7.pdf)
  
   **[2]** Andrychowicz, Marcin, et al. "Learning to learn by gradient descent by gradient descent." arXiv preprint arXiv:1606.04474 (2016).(Neural Optimizer,Amazing Work)
 
@@ -269,7 +273,7 @@
    - softmax2d
    - etc.
 
-   **relu, lerelu, tanh, sigmoid** is recommanded strongly!!!(https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6)
+   [**relu, lerelu, tanh, sigmoid**](https://medium.com/towards-data-science/activation-functions-neural-networks-1cbd9f8d91d6) is recommanded strongly!!!
 
 # Journals and Periardical
   **Machine Learning and Theories** 
@@ -284,6 +288,7 @@
   
   **Neural Language Processing**
   - EMNLP
+  - ACL
   
   **Artifical Intelligence**
   - AAAI
@@ -318,22 +323,27 @@
           
    - GAN Codes
 
-     [Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+     [Tensorflow_1](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+     
+     [Tensorflow_2](https://github.com/nnUyi/GAN-Collections)
      
      [Pytorch](https://github.com/znxlwm/pytorch-generative-model-collections)
-
+   
+   - [GAN Performance Report](https://arxiv.org/abs/1711.10337)
+   
+   - [GAN video](http://www.bilibili.com/video/av16658095/index_11.html#page=11)
+   
    - Something interesting about GAN
    
-     (1)cycle-gan
+     (1) cycle-gan
      
        - [blog](https://hardikbansal.github.io/CycleGANBlog/)
        - [code](https://github.com/xhujoy/CycleGAN-tensorflow)
    
-     (2)progressive-grow gan
-     
-       - [blog](None)
+     (2) progressive-grow gan
+       - [paper](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)
        - [code](https://github.com/github-pengge/PyTorch-progressive_growing_of_gans)
-       
+     
 ## Deep Architecture Genealogy
    <p align="center"><img width="40%" src="Neural_Net_Arch_Genealogy.png" /></p>
    
@@ -367,7 +377,7 @@
     
     [video](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652008886&idx=3&sn=7bf5ccda237025734d451461b422f983&chksm=f1210547c6568c51c54f7ab254e0ea7e6742de0936d6f2a64e93f5f292d0e72ebd83014922df&mpshare=1&scene=22&srcid=1125cJg20BUfvM8CBevMSrfR#rd)
   
-  - [DiracNet](https://arxiv.org/abs/1706.00388)(DiracNets: Training Very Deep Neural Networks Without Skip-Connections)
+  - DiracNets: Training Very Deep Neural Networks Without Skip-Connections. [DiracNet](https://arxiv.org/abs/1706.00388)
   
 # References
  - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md
