@@ -211,7 +211,7 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
      
    **[2]** Conventional Convolutional Kernel
    
-   **[3]** convolution operations[link](https://github.com/vdumoulin/conv_arithmetic)
+   **[3]** convolution operations. [link](https://github.com/vdumoulin/conv_arithmetic)
 
 ### Lightly Convolution Neural Networks
    **[0]** 	Forrest N. Iandola, Matthew W. Moskewicz, Khalid Ashraf, Song Han, William J. Dally, Kurt Keutzer:SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size. CoRR abs/1602.07360 (2016). [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf)
