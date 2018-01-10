@@ -340,7 +340,7 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
      
      [Pytorch](https://github.com/znxlwm/pytorch-generative-model-collections)
    
-   - [GAN Performance Report](https://arxiv.org/abs/1711.10337)
+   - [GAN Performance Report](https://arxiv.org/abs/1711.10337)
    
    - [GAN video](http://www.bilibili.com/video/av16658095/index_11.html#page=11)
    
