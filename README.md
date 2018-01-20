@@ -312,7 +312,9 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
 # Deep Learning Framework(open source framework)
   - [Tensorflow](https://www.tensorflow.org/api_docs/)
     - Learning codes:https://github.com/MorvanZhou/Tensorflow-Tutorial
-    - tensorflow slim: https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim
+    - tensorflow slim: 
+      - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim
+      - http://www.cnblogs.com/hellcat/p/8058092.html
     
   - [Caffe](http://caffe.berkeleyvision.org/)
   
