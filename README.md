@@ -320,6 +320,7 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
   
   - [Pytorch](http://pytorch.org/docs/master/)
     - Learning codes:https://github.com/hunkim/pytorch-tutorial
+    - blog:https://zhuanlan.zhihu.com/p/30123806
     
   - [Keras](https://keras.io/)
   
