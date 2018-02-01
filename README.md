@@ -315,6 +315,13 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
     - tensorflow slim: 
       - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim
       - http://www.cnblogs.com/hellcat/p/8058092.html
+      - https://github.com/Sarasra/models/tree/master/research/slim
+      
+    - tensorflow modules:
+      - https://github.com/Sarasra/models
+    
+    - tensorflow pre-train models
+      - https://github.com/Sarasra/models/tree/master/research/slim
     
   - [Caffe](http://caffe.berkeleyvision.org/)
   
