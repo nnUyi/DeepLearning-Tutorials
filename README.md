@@ -397,8 +397,12 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
     [blog](https://zhuanlan.zhihu.com/p/29435406?utm_source=wechat_timeline&utm_medium=social&from=groupmessage&isappinstalled=0)
     
     [video](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652008886&idx=3&sn=7bf5ccda237025734d451461b422f983&chksm=f1210547c6568c51c54f7ab254e0ea7e6742de0936d6f2a64e93f5f292d0e72ebd83014922df&mpshare=1&scene=22&srcid=1125cJg20BUfvM8CBevMSrfR#rd)
+
+    [official codes](https://github.com/Sarasra/models/tree/master/research/capsules)
   
   - DiracNets: Training Very Deep Neural Networks Without Skip-Connections. [DiracNet](https://arxiv.org/abs/1706.00388)
+  
+  - Non-local Neural Networks. [Non-Local Nets](https://arxiv.org/pdf/1711.07971.pdf)
   
 # References
  - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md
