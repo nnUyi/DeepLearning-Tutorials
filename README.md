@@ -403,6 +403,22 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
   - DiracNets: Training Very Deep Neural Networks Without Skip-Connections. [DiracNet](https://arxiv.org/abs/1706.00388)
   
   - Non-local Neural Networks. [Non-Local Nets](https://arxiv.org/pdf/1711.07971.pdf)
+
+# Datasets
+## Computer Vision
+### Classification
+  - [MNIST](http://yann.lecun.com/exdb/mnist/)
+  - [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)
+  - [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html)
+  - [SVHN](http://ufldl.stanford.edu/housenumbers/)
+  - [IMAGENETS](http://image-net.org/download)
+  - [CELEBA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+  
+### Geometry and SLAM
+  - [NYU_V2](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
+  - [ICL_NUIM](http://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html)
+  - [TUM](http://vision.in.tum.de/data/datasets/rgbd-dataset/download)
+  - [KITTI](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
   
 # References
  - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md
