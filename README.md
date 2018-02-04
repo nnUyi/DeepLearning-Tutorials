@@ -202,25 +202,27 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
    
    **[5]** [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  :star::star::star::star::star:
    
-### Types of CNN
+### CNN(Convolutional Neural Networks)
    **[0]** Dilated Convolutional Kernel
      - Fisher Yu, Vladlen Koltun:Multi-Scale Context Aggregation by Dilated Convolutions. ICLR(2016)
      
    **[1]** Deformable Convolutional Kernel
      - Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei:Deformable Convolutional Networks. CoRR abs/1703.06211 (2017)
-     
-   **[2]** Conventional Convolutional Kernel
    
-   **[3]** convolution operations. [link](https://github.com/vdumoulin/conv_arithmetic)
+   **[2]** Convolution Operations. [link](https://github.com/vdumoulin/conv_arithmetic)
+   
+   **[3]** Convolution Analyzer. [link](https://dgschwend.github.io/netscope/quickstart.html)
 
 ### Lightly Convolution Neural Networks
    **[0]** 	Forrest N. Iandola, Matthew W. Moskewicz, Khalid Ashraf, Song Han, William J. Dally, Kurt Keutzer:SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <1MB model size. CoRR abs/1602.07360 (2016). [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf)
 
    **[1]** 	Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam:MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. CoRR abs/1704.04861 (2017). [MobileNets](https://arxiv.org/abs/1704.04861)
    
-   **[2]** Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun:ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices. CoRR abs/1707.01083 (2017). [ShuffleNet](https://arxiv.org/abs/1707.01083)
+   **[2]** 	Mark Sandler, Andrew G. Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen: Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation. CoRR abs/1801.04381 (2018). [MobileNets_V2](https://arxiv.org/abs/1801.04381v1)
    
-   **[3]** 	François Chollet:Xception: Deep Learning with Depthwise Separable Convolutions. CVPR 2017: 1800-1807. [Xception](https://arxiv.org/pdf/1610.02357v2.pdf)
+   **[3]** Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun:ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices. CoRR abs/1707.01083 (2017). [ShuffleNet](https://arxiv.org/abs/1707.01083)
+   
+   **[4]** 	François Chollet:Xception: Deep Learning with Depthwise Separable Convolutions. CVPR 2017: 1800-1807. [Xception](https://arxiv.org/pdf/1610.02357v2.pdf)
 
 ### Model Constraints
   **[0]** Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). (Dropout) 
