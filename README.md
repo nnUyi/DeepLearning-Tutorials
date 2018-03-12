@@ -421,7 +421,9 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
   - [ICL_NUIM](http://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html)
   - [TUM](http://vision.in.tum.de/data/datasets/rgbd-dataset/download)
   - [KITTI](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
-  
+
+### Object Detection
+  - [VOC2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/examples/index.html)
 # References
  - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md
  - https://github.com/terryum/awesome-deep-learning-papers
