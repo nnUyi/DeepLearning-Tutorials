@@ -149,6 +149,10 @@
   
   **[14]** 	Eddy Ilg, Nikolaus Mayer, Tonmoy Saikia, Margret Keuper, Alexey Dosovitskiy, Thomas Brox:FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks. CoRR abs/1612.01925 (2016):star::star::star::star::star:
 
+##### Future of SLAM
+
+  **[0]** The Future of Real-Time SLAM and Deep Learning vs SLAM.[SLAM](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
+
 #### Other state-of-the-art Paper
   
   **[0]** 	Dan C. Ciresan, Ueli Meier, Jonathan Masci, Luca Maria Gambardella, Jürgen Schmidhuber:High-Performance Neural Networks for Visual Object Classification. CoRR abs/1102.0183 (2011)
@@ -160,6 +164,10 @@
   **[3]** Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen:Progressive Growing of GANs for Improved Quality, Stability, and Variation. ICLR(2018)
   
   **[4]** Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, Shin Ishii:Virtual Adversarial Training: a Regularization Method for Supervised and Semi-supervised Learning. CoRR abs/1704.03976 (2017)
+
+#### Report of Computer Vision
+
+  **[0]** A Year in Computer Vision. [cv](http://www.themtank.org/a-year-in-computer-vision)
 
 ### Natural Language Processing
 
