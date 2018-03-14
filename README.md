@@ -62,6 +62,8 @@
  
  - [Deep Learning for Self-Driving Cars](https://www.class-central.com/mooc/8132/6-s094-deep-learning-for-self-driving-cars )
  
+ - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+ 
 # Paper List
 ## Application
 ### Computer Vision
