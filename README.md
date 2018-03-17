@@ -366,6 +366,19 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
    
    - [GAN video](http://www.bilibili.com/video/av16658095/index_11.html#page=11)
    
+   - [10 papers for GAN(strongly recommend)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652014216&idx=4&sn=45dbf52de913deca0b50d192f469e90e&chksm=f121f279c6567b6f1eee525fb23307a9c19511fc808427b02e38b3c051d0403812f13fae874c&mpshare=1&scene=22&srcid=0316hcyk31xhQXjpHM0Ayrov#rd)
+   
+     - Progressive Growing of GANs for Improved Quality, Stability, and Variation
+     - Spectral Normalization for Generative Adversarial Networks
+     - cGANs with Projection Discriminator
+     - High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
+     - Are GANs Created Equal? A Large-Scale Study
+     - Improved Training of Wasserstein GANs
+     - StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks
+     - Privacy-preserving generative deep neural networks support clinical data sharing
+     - Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks
+     -  Gradient descent GAN optimization is locally stable
+     
    - Something interesting about GAN
    
      (1) cycle-gan
