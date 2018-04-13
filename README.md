@@ -176,6 +176,12 @@
 ### Speech Recognization
 
 ### Reinforcement Learning
+
+### Transfer Learning
+
+#### Tutorial
+  
+  **[0]** 迁移学习简明手册. [link](http://jd92.wang/assets/files/transfer_learning_tutorial_wjd.pdf)
   
 ## Model
 ### Unsupervised Model
