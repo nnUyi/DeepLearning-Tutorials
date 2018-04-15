@@ -118,6 +118,9 @@
   
   **[6]** Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro:High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs. CoRR abs/1711.11585 (2017).[Pix2PixHD](https://tcwang0509.github.io/pix2pixHD/)
 
+  **[7]** Haris M, Shakhnarovich G, Ukita N. Deep Back-Projection Networks For Super-Resolution[J]. arXiv preprint arXiv:1803.02735, 2018.[DBPN](https://arxiv.org/pdf/1803.02735.pdf) [supplementary material](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/MyPapers/CVPR2018_sr_supp.pdf)
+  
+
 #### Deep Learning in SLAM
 ##### Depth and Pose
   **[0]** 	Keisuke Tateno, Federico Tombari, Iro Laina, Nassir Navab:CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction. cvpr(2017):star::star::star::star::star:
