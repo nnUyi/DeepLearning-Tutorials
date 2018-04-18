@@ -334,6 +334,8 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
   
 # Deep Learning Framework(open source framework)
   - [Tensorflow](https://www.tensorflow.org/api_docs/)
+    - [Tensorflow Tutorial Summary](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652017204&idx=4&sn=db816f62bdd33ac50316092e5fae2add&chksm=f121e6c5c6566fd3e1f8c1589e961e8dce13ad02f44712b4c33a6540c2de82600933ff682ff0&mpshare=1&scene=22&srcid=0415zPB3agkDhAreisyxPjya&pass_ticket=LsPgmE53%2FkK8aA2tokdVwQKgFyUi%2FpB3Gy7TLkYHQnCppPBveGdF27DHaDn28drA#rd)
+    
     - Learning codes:https://github.com/MorvanZhou/Tensorflow-Tutorial
     - tensorflow slim: 
       - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim
@@ -439,10 +441,6 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
  - [Python Video](http://bbs.itheima.com/thread-336964-1-1.html)
  
  - [Other Links](https://www.toutiao.com/i6497381938788041230/?tt_from=mobile_qq&utm_campaign=client_share&app=news_article&utm_source=qzone&iid=17701592082&utm_medium=toutiao_android)
-
-## Tensorflow Resources
-
- - [Tensorflow Tutorial Summary](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652017204&idx=4&sn=db816f62bdd33ac50316092e5fae2add&chksm=f121e6c5c6566fd3e1f8c1589e961e8dce13ad02f44712b4c33a6540c2de82600933ff682ff0&mpshare=1&scene=22&srcid=0415zPB3agkDhAreisyxPjya&pass_ticket=LsPgmE53%2FkK8aA2tokdVwQKgFyUi%2FpB3Gy7TLkYHQnCppPBveGdF27DHaDn28drA#rd)
 
 # Datasets
 ## Computer Vision
