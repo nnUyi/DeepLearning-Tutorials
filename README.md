@@ -16,6 +16,9 @@
     
 ## English Book
   - 《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
+  
+  - 《Machine Learning Yearning》-- Andrew Ng
+  
   - 《Pattern Recognition and Machine Learning》--Christopher M. Bishop
     - book:
      - https://pan.baidu.com/s/1skRgcjF : enter code:cquc
@@ -439,6 +442,8 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
  - [JobBole](http://python.jobbole.com/)
  
  - [Python Video](http://bbs.itheima.com/thread-336964-1-1.html)
+ 
+ - [Matplotlib](https://matplotlib.org/users/screenshots.html)
  
  - [Other Links](https://www.toutiao.com/i6497381938788041230/?tt_from=mobile_qq&utm_campaign=client_share&app=news_article&utm_source=qzone&iid=17701592082&utm_medium=toutiao_android)
 
