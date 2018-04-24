@@ -16,9 +16,7 @@
     
 ## English Book
   - 《Deep Learning》--Ian GoodFellow, Yoshua Bengio et al
-  
   - 《Machine Learning Yearning》-- Andrew Ng
-  
   - 《Pattern Recognition and Machine Learning》--Christopher M. Bishop
     - book:
      - https://pan.baidu.com/s/1skRgcjF : enter code:cquc
