@@ -382,6 +382,8 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
   - DiracNets: Training Very Deep Neural Networks Without Skip-Connections. [DiracNet](https://arxiv.org/abs/1706.00388)
   
   - Non-local Neural Networks. [Non-Local Nets](https://arxiv.org/pdf/1711.07971.pdf)
+  
+  - Convolutional Neural Networks with Alternately Updated Clique. [CliqueNet](https://arxiv.org/pdf/1802.10419.pdf)
 
 # Other Sources
 ## Generative Adversarial Networks:(GAN):
