@@ -468,6 +468,11 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
 
 ### Object Detection
   - [VOC2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/examples/index.html)
+  
+### Face Datasets
+  - [LFW](http://vis-www.cs.umass.edu/lfw/)
+  - [Summary](https://blog.csdn.net/chenriwei2/article/details/50631212)
+
 # References
  - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md
  - https://github.com/terryum/awesome-deep-learning-papers
