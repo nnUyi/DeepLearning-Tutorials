@@ -1,6 +1,6 @@
 # DeepLearning-Tutorials
 
- - This is a deep learning tutorials for someone who want to learn more about AI, Thank you for following!
+ - This is a deep learning tutorials for someone who want to learn more about deep learning, Thank you for following!
   
 # Book List
 ## Chinese Book
