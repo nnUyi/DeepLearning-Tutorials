@@ -471,6 +471,8 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
   
 ### Face Datasets
   - [LFW](http://vis-www.cs.umass.edu/lfw/)
+  - [ORL](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html)
+  - [Yale](http://vision.ucsd.edu/content/yale-face-database)
   - [Summary](https://blog.csdn.net/chenriwei2/article/details/50631212)
 
 # References
