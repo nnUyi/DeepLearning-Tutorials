@@ -247,6 +247,9 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
    **[3]** Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun:ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices. CoRR abs/1707.01083 (2017). [ShuffleNet](https://arxiv.org/abs/1707.01083)
    
    **[4]** 	François Chollet:Xception: Deep Learning with Depthwise Separable Convolutions. CVPR 2017: 1800-1807. [Xception](https://arxiv.org/pdf/1610.02357v2.pdf)
+   
+   **[5]** 	Robert J. Wang, Xiang Li, Shuang Ao, Charles X. Ling:Pelee: A Real-Time Object Detection System on Mobile Devices. CoRR abs/1804.06882 (2018). [PeleeNet](https://arxiv.org/pdf/1804.06882.pdf)
+
 
 ### Model Constraints
   **[0]** Hinton, Geoffrey E., et al. "Improving neural networks by preventing co-adaptation of feature detectors." arXiv preprint arXiv:1207.0580 (2012). (Dropout) 
