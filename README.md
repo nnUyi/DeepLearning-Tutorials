@@ -384,7 +384,9 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
 
     [official codes](https://github.com/Sarasra/models/tree/master/research/capsules)
   
-  - DiracNets: Training Very Deep Neural Networks Without Skip-Connections. [DiracNet](https://arxiv.org/abs/1706.00388)
+  - DenseNet：Densely Connected Convolutional Networks. [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)
+  
+  - DiracNets: Training Very Deep Neural Networks Without Skip-Connections. [DiracNet](https://arxiv.org/abs/1706.00388)
   
   - Non-local Neural Networks. [Non-Local Nets](https://arxiv.org/pdf/1711.07971.pdf)
   
