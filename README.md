@@ -245,12 +245,14 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
    **[1]** 	Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam:MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. CoRR abs/1704.04861 (2017). [MobileNets](https://arxiv.org/abs/1704.04861)
    
    **[2]** 	Mark Sandler, Andrew G. Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen: Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation. CoRR abs/1801.04381 (2018). [MobileNets_V2](https://arxiv.org/abs/1801.04381v1)
+
+   **[3]** 	François Chollet:Xception: Deep Learning with Depthwise Separable Convolutions. CVPR 2017: 1800-1807. [Xception](https://arxiv.org/pdf/1610.02357v2.pdf)
+
+   **[4]** Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun:ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices. CoRR abs/1707.01083 (2017). [ShuffleNet](https://arxiv.org/abs/1707.01083)
    
-   **[3]** Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun:ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices. CoRR abs/1707.01083 (2017). [ShuffleNet](https://arxiv.org/abs/1707.01083)
+   **[5]** 	Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le: Learning Transferable Architectures for Scalable Image Recognition. CoRR abs/1707.07012 (2017). [NasNet](https://arxiv.org/pdf/1707.07012.pdf)
    
-   **[4]** 	François Chollet:Xception: Deep Learning with Depthwise Separable Convolutions. CVPR 2017: 1800-1807. [Xception](https://arxiv.org/pdf/1610.02357v2.pdf)
-   
-   **[5]** 	Robert J. Wang, Xiang Li, Shuang Ao, Charles X. Ling:Pelee: A Real-Time Object Detection System on Mobile Devices. CoRR abs/1804.06882 (2018). [PeleeNet](https://arxiv.org/pdf/1804.06882.pdf)
+   **[6]** 	Robert J. Wang, Xiang Li, Shuang Ao, Charles X. Ling:Pelee: A Real-Time Object Detection System on Mobile Devices. CoRR abs/1804.06882 (2018). [PeleeNet](https://arxiv.org/pdf/1804.06882.pdf)
 
 
 ### Model Constraints
