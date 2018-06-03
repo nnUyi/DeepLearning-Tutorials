@@ -455,9 +455,11 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
  
  - [Python Video](http://bbs.itheima.com/thread-336964-1-1.html)
  
- - [Matplotlib1](https://matplotlib.org/users/screenshots.html)
+ - [matplotlib1](https://matplotlib.org/users/screenshots.html)
  
- - [Matplotlib2](https://realpython.com/python-matplotlib-guide/#tt_daymode=1&tt_font=m)
+ - [matplotlib2](https://realpython.com/python-matplotlib-guide/#tt_daymode=1&tt_font=m)
+ 
+ - [matplotlib.pyplot.subplots](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.subplots.html)
  
  - [Other Links](https://www.toutiao.com/i6497381938788041230/?tt_from=mobile_qq&utm_campaign=client_share&app=news_article&utm_source=qzone&iid=17701592082&utm_medium=toutiao_android)
 
