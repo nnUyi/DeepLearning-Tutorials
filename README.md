@@ -400,6 +400,8 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
    - [GAN Paper](https://github.com/hindupuravinash/the-gan-zoo)
           
    - [GAN Tricks](https://github.com/soumith/ganhacks)
+   
+   - [GAN Tutorial 2018CVPR](http://www.iangoodfellow.com/slides/2018-06-18.pdf)
           
    - GAN Codes
 
