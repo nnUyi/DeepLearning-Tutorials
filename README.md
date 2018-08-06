@@ -358,6 +358,8 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
     - tensorflow pre-train models
       - https://github.com/Sarasra/models/tree/master/research/slim
     
+    - [tensorflow model zoo](https://modelzoo.co)
+    
   - [Caffe](http://caffe.berkeleyvision.org/)
   
   - [Pytorch](http://pytorch.org/docs/master/)
@@ -498,6 +500,9 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
   - [Rain100H]()
   - [Rain100L]()
   - [Rain12]()
+  - [Rain800]()
+  - [Rain14000]()
+  - [RainHML]()
 
 # References
  - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md
