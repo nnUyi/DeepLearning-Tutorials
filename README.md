@@ -106,6 +106,12 @@
   **[3]** Dai, J., He, K., Sun, J. "Instance-aware semantic segmentation via multi-task network cascades." in CVPR. 2016 
 
   **[4]** Dai, J., He, K., Sun, J. "Instance-sensitive Fully Convolutional Networks." arXiv preprint arXiv:1603.08678(2016). 
+  
+  **[5]** 	Liang-Chieh Chen, George Papandreou, Iasonas Kokkinos, Kevin Murphy, Alan L. Yuille:Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs. CoRR abs/1412.7062 (2014). [deeplab1](https://arxiv.org/pdf/1412.7062v3.pdf), [deeplab1_ppt](http://vision.cs.utexas.edu/381V-fall2016/slides/kelle_paper.pdf)
+  
+  **[6]** 	Liang-Chieh Chen, George Papandreou, Iasonas Kokkinos, Kevin Murphy, Alan L. Yuille:DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs. CoRR abs/1606.00915 (2016). [deeplab2](http://www.cs.cmu.edu/~jeanoh/16-785/papers/chen-arxiv2017-deeplab.pdf)
+  
+  **[7]** 	Liang-Chieh Chen, George Papandreou, Iasonas Kokkinos, Kevin Murphy, Alan L. Yuille: DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs. IEEE Trans. Pattern Anal. Mach. Intell. 40(4): 834-848 (2018). [deeplab3](https://arxiv.org/pdf/1706.05587.pdf)
 
 #### Super-Resolution
 
