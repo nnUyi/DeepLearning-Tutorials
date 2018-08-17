@@ -410,6 +410,8 @@ PixelCNN++: Improving the PixelCNN with Discretized Logistic Mixture Likelihood 
    - [GAN Tricks](https://github.com/soumith/ganhacks)
    
    - [GAN Tutorial 2018CVPR](http://www.iangoodfellow.com/slides/2018-06-18.pdf)
+   
+   - [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html#kullbackleibler-and-jensenshannon-divergence)
           
    - GAN Codes
 
